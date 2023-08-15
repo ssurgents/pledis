@@ -1,0 +1,536 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Bumzu)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-05001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I WANT YOU BACK"
+			},
+			"artists": {
+				"en": "BUMZU"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tBUMZU\nAlbum:\t\tI Want You Back\nTitle:\t\t\tI WANT YOU BACK\nDuration:\t1:39.68\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t544\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-05001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "9bd1af5ab00fb472e4fdaa28956095c3915d0a9f",
+				"url": "/sonolus/repository/LevelCover/9bd1af5ab00fb472e4fdaa28956095c3915d0a9f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "377f2f3fa48b2061c3a11b185105cd354543975d",
+				"url": "/sonolus/repository/LevelBgm/377f2f3fa48b2061c3a11b185105cd354543975d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "05c1da4c81ba51d7fa29ee48911d32db9dc7b2a1",
+				"url": "/sonolus/repository/LevelPreview/05c1da4c81ba51d7fa29ee48911d32db9dc7b2a1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cbc8beee57e2c028fcf491e73794f1f30352af68",
+				"url": "/sonolus/repository/LevelData/cbc8beee57e2c028fcf491e73794f1f30352af68"
+			}
+		},
+		{
+			"name": "ssp-hard-05002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "JUST"
+			},
+			"artists": {
+				"en": "BUMZU"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tBUMZU\nAlbum:\t\t27\nTitle:\t\t\tJUST\nDuration:\t1:34.29\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t630\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-05002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c0928e00ed99b731c424781e93bfbdf3d5a4cba6",
+				"url": "/sonolus/repository/LevelCover/c0928e00ed99b731c424781e93bfbdf3d5a4cba6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4db6bd49c297e6bd5fbc2cffd010a55e1e6a2d8a",
+				"url": "/sonolus/repository/LevelBgm/4db6bd49c297e6bd5fbc2cffd010a55e1e6a2d8a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e3ef5ff6513c7d5767da69a271d6d3024832c041",
+				"url": "/sonolus/repository/LevelPreview/e3ef5ff6513c7d5767da69a271d6d3024832c041"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "38ca8c5b67c49ef9c9efbdc514aba5f8a19cd56e",
+				"url": "/sonolus/repository/LevelData/38ca8c5b67c49ef9c9efbdc514aba5f8a19cd56e"
+			}
+		},
+		{
+			"name": "ssp-hard-05003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "그리워 안 해 (I Don't Miss You)"
+			},
+			"artists": {
+				"en": "BUMZU"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tBUMZU\nAlbum:\t\tI Don't Miss You\nTitle:\t\t\t그리워 안 해 (I Don't Miss You)\nDuration:\t1:39.75\nBPM:\t\t80\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t398\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-05003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7b6b7a97634e3b17800af37d74593c1d570cf804",
+				"url": "/sonolus/repository/LevelCover/7b6b7a97634e3b17800af37d74593c1d570cf804"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f3c2310866825883aaa38506774e760eea8b5d19",
+				"url": "/sonolus/repository/LevelBgm/f3c2310866825883aaa38506774e760eea8b5d19"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9b4918700579d07532022f9e762ef71930d8b55a",
+				"url": "/sonolus/repository/LevelPreview/9b4918700579d07532022f9e762ef71930d8b55a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "35f23ffc953e06d23a549fa3ba1ea26438dd6b50",
+				"url": "/sonolus/repository/LevelData/35f23ffc953e06d23a549fa3ba1ea26438dd6b50"
+			}
+		},
+		{
+			"name": "ssp-hard-05004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "28.5 (Feat. 정인)"
+			},
+			"artists": {
+				"en": "BUMZU"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tBUMZU\nAlbum:\t\t24\nTitle:\t\t\t28.5 (Feat. 정인)\nDuration:\t1:43.26\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t436\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-05004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bd50ce090aa88e91aec7b17e30ffd436526d15a6",
+				"url": "/sonolus/repository/LevelCover/bd50ce090aa88e91aec7b17e30ffd436526d15a6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f92b7b181925cc5ece1d102ff1608a559c5c79a3",
+				"url": "/sonolus/repository/LevelBgm/f92b7b181925cc5ece1d102ff1608a559c5c79a3"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "32869944f051b3fc7194cda5b155754f013bbd49",
+				"url": "/sonolus/repository/LevelPreview/32869944f051b3fc7194cda5b155754f013bbd49"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9951cb5777294e1b181e77df474a25c9c65ada4b",
+				"url": "/sonolus/repository/LevelData/9951cb5777294e1b181e77df474a25c9c65ada4b"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-05001",
+			"version": 2,
+			"title": {
+				"en": "I Want You Back default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tI Want You Back\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6547454a78ff9597e2f76bf736d935757918cd3e",
+				"url": "/sonolus/repository/BackgroundThumbnail/6547454a78ff9597e2f76bf736d935757918cd3e"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "281b237958c978ed56ee93cec9f3556d3fced8c8",
+				"url": "/sonolus/repository/BackgroundImage/281b237958c978ed56ee93cec9f3556d3fced8c8"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-05002",
+			"version": 2,
+			"title": {
+				"en": "27 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\t27\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "127cab0363e9578146b3cb1cde3688083f738e09",
+				"url": "/sonolus/repository/BackgroundThumbnail/127cab0363e9578146b3cb1cde3688083f738e09"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f3a30dd4dc39219a7cca9e020e4b9f9243aabafa",
+				"url": "/sonolus/repository/BackgroundImage/f3a30dd4dc39219a7cca9e020e4b9f9243aabafa"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-05003",
+			"version": 2,
+			"title": {
+				"en": "I Don't Miss You default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tI Don't Miss You\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "04d7054d06268768bd08416e941a0a90151da695",
+				"url": "/sonolus/repository/BackgroundThumbnail/04d7054d06268768bd08416e941a0a90151da695"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "ad821de1f942a10cf8a79ec219ce1a1f1117739c",
+				"url": "/sonolus/repository/BackgroundImage/ad821de1f942a10cf8a79ec219ce1a1f1117739c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-05004",
+			"version": 2,
+			"title": {
+				"en": "Good Life default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tGood Life\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "0e9e205bdbdd6a03fc2685724d1686f7ed548518",
+				"url": "/sonolus/repository/BackgroundThumbnail/0e9e205bdbdd6a03fc2685724d1686f7ed548518"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "412ec1097741ecc90162df6b4ddc31a64925954c",
+				"url": "/sonolus/repository/BackgroundImage/412ec1097741ecc90162df6b4ddc31a64925954c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

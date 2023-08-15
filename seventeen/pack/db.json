@@ -1,0 +1,4556 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Seventeen)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-01001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Jam Jam"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\t17 Carat\nTitle:\t\t\tJam Jam\nDuration:\t1:44.00\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t746\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b4f589d0f8ae387b950fee3bec324acd54592f69",
+				"url": "/sonolus/repository/LevelCover/b4f589d0f8ae387b950fee3bec324acd54592f69"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8087bcf1dfb5fc146c282f19ea1ad927b1e99750",
+				"url": "/sonolus/repository/LevelBgm/8087bcf1dfb5fc146c282f19ea1ad927b1e99750"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c4c2323d685f55020d98be4b92819846f851be81",
+				"url": "/sonolus/repository/LevelPreview/c4c2323d685f55020d98be4b92819846f851be81"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "72c9b28cca93fbde077a799d7c4c3492b102c377",
+				"url": "/sonolus/repository/LevelData/72c9b28cca93fbde077a799d7c4c3492b102c377"
+			}
+		},
+		{
+			"name": "ssp-hard-01002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "어른이 되면 (When I Grow Up)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tBoys Be\nTitle:\t\t\t어른이 되면 (When I Grow Up)\nDuration:\t1:53.13\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t514\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bfbb0644be7658c372929d66f371242a49dffaa7",
+				"url": "/sonolus/repository/LevelCover/bfbb0644be7658c372929d66f371242a49dffaa7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "27b11886e9e042d78ebb2988fd9bc6975bd5d38f",
+				"url": "/sonolus/repository/LevelBgm/27b11886e9e042d78ebb2988fd9bc6975bd5d38f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "36e21199ad1b2cb92beebcbba93b64b493c58bb3",
+				"url": "/sonolus/repository/LevelPreview/36e21199ad1b2cb92beebcbba93b64b493c58bb3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "43545fd36d935c471bd71e388e2742e8934ea2d7",
+				"url": "/sonolus/repository/LevelData/43545fd36d935c471bd71e388e2742e8934ea2d7"
+			}
+		},
+		{
+			"name": "ssp-hard-01003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "사랑쪽지 (Love Letter)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter\nTitle:\t\t\t사랑쪽지 (Love Letter)\nDuration:\t1:13.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t423\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "015212d1450b4e29e99e3bba419967dea0aa5cbf",
+				"url": "/sonolus/repository/LevelCover/015212d1450b4e29e99e3bba419967dea0aa5cbf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f7f3f0e81d7c87fe9de615257bb3addf4b8e58a5",
+				"url": "/sonolus/repository/LevelBgm/f7f3f0e81d7c87fe9de615257bb3addf4b8e58a5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "279be7f7d2c1da1a098c92ce9a5be15e5ac4693a",
+				"url": "/sonolus/repository/LevelPreview/279be7f7d2c1da1a098c92ce9a5be15e5ac4693a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "06e738bd6843d381751597c6ab632adea0901468",
+				"url": "/sonolus/repository/LevelData/06e738bd6843d381751597c6ab632adea0901468"
+			}
+		},
+		{
+			"name": "ssp-hard-01004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "아주 NICE"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter (Repackage)\nTitle:\t\t\t아주 NICE\nDuration:\t1:03.44\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t390\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "009a251d8ba8d556fcad10ea6de1afb2401de4f7",
+				"url": "/sonolus/repository/LevelCover/009a251d8ba8d556fcad10ea6de1afb2401de4f7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "39af51aeb0c7b530996775ce1dd42e6750a5894b",
+				"url": "/sonolus/repository/LevelBgm/39af51aeb0c7b530996775ce1dd42e6750a5894b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3692d05bdd2b4234a84f64f7f40c2769ac28765d",
+				"url": "/sonolus/repository/LevelPreview/3692d05bdd2b4234a84f64f7f40c2769ac28765d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "23300d0addbec5b8aec6e7bbae7ff69cab7228a2",
+				"url": "/sonolus/repository/LevelData/23300d0addbec5b8aec6e7bbae7ff69cab7228a2"
+			}
+		},
+		{
+			"name": "ssp-hard-01005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "웃음꽃 (Smileflower)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\t웃음꽃 (Smileflower)\nDuration:\t1:37.08\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t451\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ba325c390ec479374a514f2180f521751ce78592",
+				"url": "/sonolus/repository/LevelBgm/ba325c390ec479374a514f2180f521751ce78592"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c5f8e87a7385e20349d08027093a58896977f488",
+				"url": "/sonolus/repository/LevelPreview/c5f8e87a7385e20349d08027093a58896977f488"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "925eea82af213bc2f386547f43d6d02fcf15d05c",
+				"url": "/sonolus/repository/LevelData/925eea82af213bc2f386547f43d6d02fcf15d05c"
+			}
+		},
+		{
+			"name": "ssp-hard-01006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "TRAUMA"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tTeen, Age\nTitle:\t\t\tTRAUMA\nDuration:\t1:54.85\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t796\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "682b7503f66154a438b9f9c530b7f5b746dd4737",
+				"url": "/sonolus/repository/LevelBgm/682b7503f66154a438b9f9c530b7f5b746dd4737"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8bbf75bb0cfaac0fe5491adf258db90e5d3805fe",
+				"url": "/sonolus/repository/LevelPreview/8bbf75bb0cfaac0fe5491adf258db90e5d3805fe"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d5dd6296d479885e8ea6b53d1ba40cfc29ad14f4",
+				"url": "/sonolus/repository/LevelData/d5dd6296d479885e8ea6b53d1ba40cfc29ad14f4"
+			}
+		},
+		{
+			"name": "ssp-hard-01007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "지금 널 찾아가고 있어 (Run To You)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tDirector's Cut\nTitle:\t\t\t지금 널 찾아가고 있어 (Run To You)\nDuration:\t1:25.62\nBPM:\t\t178\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t581\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ffef61dcaf5e49a6f19f71b422973649bda60091",
+				"url": "/sonolus/repository/LevelCover/ffef61dcaf5e49a6f19f71b422973649bda60091"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1d2c2ece0926bfaedd90233bee062d28e91d776b",
+				"url": "/sonolus/repository/LevelBgm/1d2c2ece0926bfaedd90233bee062d28e91d776b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "72f56adfa0daa0b96b63e341c5af315e78d29937",
+				"url": "/sonolus/repository/LevelPreview/72f56adfa0daa0b96b63e341c5af315e78d29937"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8db21486b91fc60fef80f6b41b4b04db1ef6b0cc",
+				"url": "/sonolus/repository/LevelData/8db21486b91fc60fef80f6b41b4b04db1ef6b0cc"
+			}
+		},
+		{
+			"name": "ssp-hard-01008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "어쩌나 (Oh My!) "
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Day\nTitle:\t\t\t어쩌나 (Oh My!) \nDuration:\t1:26.09\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t549\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "41c68ae77a04c710d5d3304cea941e1f9c070329",
+				"url": "/sonolus/repository/LevelBgm/41c68ae77a04c710d5d3304cea941e1f9c070329"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ba835706aed0290f065f8d4fe78164c6383fbcc6",
+				"url": "/sonolus/repository/LevelPreview/ba835706aed0290f065f8d4fe78164c6383fbcc6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f0aa41411268d4e5579a4b67e99fc315e8ba73c7",
+				"url": "/sonolus/repository/LevelData/f0aa41411268d4e5579a4b67e99fc315e8ba73c7"
+			}
+		},
+		{
+			"name": "ssp-hard-01009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Home"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Dawn\nTitle:\t\t\tHome\nDuration:\t1:51.14\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t685\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6cd7d9012367ab642d9ac70c79923e87717b5445",
+				"url": "/sonolus/repository/LevelBgm/6cd7d9012367ab642d9ac70c79923e87717b5445"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fe3d1d05a44ed530b1c00c6efea48b3ac3b51a47",
+				"url": "/sonolus/repository/LevelPreview/fe3d1d05a44ed530b1c00c6efea48b3ac3b51a47"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d0134fb0f74bbeae97fcaed58239175dc7fc30cc",
+				"url": "/sonolus/repository/LevelData/d0134fb0f74bbeae97fcaed58239175dc7fc30cc"
+			}
+		},
+		{
+			"name": "ssp-hard-01010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "박수 (Clap)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tTeen, Age\nTitle:\t\t\t박수 (Clap)\nDuration:\t1:17.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t479\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cc7b4da8e2d7cf69a48c83083e6d376947f41a00",
+				"url": "/sonolus/repository/LevelBgm/cc7b4da8e2d7cf69a48c83083e6d376947f41a00"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "929b6ab8a0f4f4c7c245f6d18e6eeb611653e1c4",
+				"url": "/sonolus/repository/LevelPreview/929b6ab8a0f4f4c7c245f6d18e6eeb611653e1c4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6c72f943bba4da5928dadeb830b2327ca0750f84",
+				"url": "/sonolus/repository/LevelData/6c72f943bba4da5928dadeb830b2327ca0750f84"
+			}
+		},
+		{
+			"name": "ssp-hard-01011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "울고 싶지 않아 (Don't Wanna Cry)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAl1\nTitle:\t\t\t울고 싶지 않아 (Don't Wanna Cry)\nDuration:\t1:31.50\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t461\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "4236c14c6258b24744bd468dcfa5e39c12b5bca6",
+				"url": "/sonolus/repository/LevelCover/4236c14c6258b24744bd468dcfa5e39c12b5bca6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0f97e465b3b6d0dfaab129f129aaa88cffd2535c",
+				"url": "/sonolus/repository/LevelBgm/0f97e465b3b6d0dfaab129f129aaa88cffd2535c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b04dca0230d7aac6e5e72cd0be81076ad08e9e08",
+				"url": "/sonolus/repository/LevelPreview/b04dca0230d7aac6e5e72cd0be81076ad08e9e08"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e97373baca4f31b8f9814bd25bddf4040efc0902",
+				"url": "/sonolus/repository/LevelData/e97373baca4f31b8f9814bd25bddf4040efc0902"
+			}
+		},
+		{
+			"name": "ssp-hard-01012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "고맙다 (Thanks)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tDirector's Cut\nTitle:\t\t\t고맙다 (Thanks)\nDuration:\t1:38.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t642\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ffef61dcaf5e49a6f19f71b422973649bda60091",
+				"url": "/sonolus/repository/LevelCover/ffef61dcaf5e49a6f19f71b422973649bda60091"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f93d5d1ca198cacd38dd2ea0df8328ca3c27cc62",
+				"url": "/sonolus/repository/LevelBgm/f93d5d1ca198cacd38dd2ea0df8328ca3c27cc62"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "01c2857c4c988e8e5ca94e82dcae3f749645442f",
+				"url": "/sonolus/repository/LevelPreview/01c2857c4c988e8e5ca94e82dcae3f749645442f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f9c934b3cba9c9a37f7bae81f6625cb93e788068",
+				"url": "/sonolus/repository/LevelData/f9c934b3cba9c9a37f7bae81f6625cb93e788068"
+			}
+		},
+		{
+			"name": "ssp-hard-01013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "예쁘다 (Pretty)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter\nTitle:\t\t\t예쁘다 (Pretty)\nDuration:\t1:34.84\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t669\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "015212d1450b4e29e99e3bba419967dea0aa5cbf",
+				"url": "/sonolus/repository/LevelCover/015212d1450b4e29e99e3bba419967dea0aa5cbf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "29ea0aa132eafe92f4a5951c7a1bb331c29d8ad8",
+				"url": "/sonolus/repository/LevelBgm/29ea0aa132eafe92f4a5951c7a1bb331c29d8ad8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9e54b1b93908d9c884d9258d1c627aaccae819bf",
+				"url": "/sonolus/repository/LevelPreview/9e54b1b93908d9c884d9258d1c627aaccae819bf"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a19a77459dd4a39e6f193370ef6efb18787fad1a",
+				"url": "/sonolus/repository/LevelData/a19a77459dd4a39e6f193370ef6efb18787fad1a"
+			}
+		},
+		{
+			"name": "ssp-hard-01014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "엄지척 (Chuck)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter\nTitle:\t\t\t엄지척 (Chuck)\nDuration:\t1:21.92\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t618\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "015212d1450b4e29e99e3bba419967dea0aa5cbf",
+				"url": "/sonolus/repository/LevelCover/015212d1450b4e29e99e3bba419967dea0aa5cbf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "59da1a9cb1d3daaa652e6fde3fb2bfd664a54957",
+				"url": "/sonolus/repository/LevelBgm/59da1a9cb1d3daaa652e6fde3fb2bfd664a54957"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0fee66439a42a7aa7a6e86fc4d22ba3ae35ed20f",
+				"url": "/sonolus/repository/LevelPreview/0fee66439a42a7aa7a6e86fc4d22ba3ae35ed20f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6733aee99a68a03fe1bbadab68cfa8e69dca2288",
+				"url": "/sonolus/repository/LevelData/6733aee99a68a03fe1bbadab68cfa8e69dca2288"
+			}
+		},
+		{
+			"name": "ssp-hard-01015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Good to Me"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Dawn\nTitle:\t\t\tGood to Me\nDuration:\t1:24.86\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t649\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "18daeaaf67ae301babb43c8c3dd503013014ab6a",
+				"url": "/sonolus/repository/LevelBgm/18daeaaf67ae301babb43c8c3dd503013014ab6a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1236723c2f0bcfd0203372bbb7687c876a3d73c3",
+				"url": "/sonolus/repository/LevelPreview/1236723c2f0bcfd0203372bbb7687c876a3d73c3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "baf0e0e86b3e63cfa69ab75c41154064c812aa7e",
+				"url": "/sonolus/repository/LevelData/baf0e0e86b3e63cfa69ab75c41154064c812aa7e"
+			}
+		},
+		{
+			"name": "ssp-hard-01016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "숨이 차 (Getting Closer)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Dawn\nTitle:\t\t\t숨이 차 (Getting Closer)\nDuration:\t1:19.88\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t604\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f89b99ab44e056bb8c9c3e488699073c3def728e",
+				"url": "/sonolus/repository/LevelBgm/f89b99ab44e056bb8c9c3e488699073c3def728e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b83edd5f8e3a6eb9696e672732bac77504feadfb",
+				"url": "/sonolus/repository/LevelPreview/b83edd5f8e3a6eb9696e672732bac77504feadfb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f26fdce2ee08a43398536cb8c2ac76c5475e2509",
+				"url": "/sonolus/repository/LevelData/f26fdce2ee08a43398536cb8c2ac76c5475e2509"
+			}
+		},
+		{
+			"name": "ssp-hard-01017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "우리의 새벽은 낮보다 뜨겁다 (Dawn Hotter Than Day)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Day\nTitle:\t\t\t우리의 새벽은 낮보다 뜨겁다 (Dawn Hotter Than Day)\nDuration:\t1:44.16\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t595\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e8de25720ca1c299e3b69eac99d755b2010cdb6b",
+				"url": "/sonolus/repository/LevelBgm/e8de25720ca1c299e3b69eac99d755b2010cdb6b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7912cbef2ca08d95a89185d7365b1ce9c88ff5ab",
+				"url": "/sonolus/repository/LevelPreview/7912cbef2ca08d95a89185d7365b1ce9c88ff5ab"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8f8d22a6d15d0e2716eba529086329d6df9a99ec",
+				"url": "/sonolus/repository/LevelData/8f8d22a6d15d0e2716eba529086329d6df9a99ec"
+			}
+		},
+		{
+			"name": "ssp-hard-01018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Holiday"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tYou Make My Day\nTitle:\t\t\tHoliday\nDuration:\t1:34.96\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t579\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ca084a72ed8e4f97355d92c8976c44aaa6e736c4",
+				"url": "/sonolus/repository/LevelBgm/ca084a72ed8e4f97355d92c8976c44aaa6e736c4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "64d3cc0510031936d5f0f3f76285144152bad1a8",
+				"url": "/sonolus/repository/LevelPreview/64d3cc0510031936d5f0f3f76285144152bad1a8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "befd2d0d03f9cc60d4a802c96baf4f5cb8e49156",
+				"url": "/sonolus/repository/LevelData/befd2d0d03f9cc60d4a802c96baf4f5cb8e49156"
+			}
+		},
+		{
+			"name": "ssp-hard-01019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HIT"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHit\nTitle:\t\t\tHIT\nDuration:\t1:38.77\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t787\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01019"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8fb67ba908f48a28197161e6bfaed20235853600",
+				"url": "/sonolus/repository/LevelCover/8fb67ba908f48a28197161e6bfaed20235853600"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "69d9b591c35f5bfe064181677e2e65e28857a25a",
+				"url": "/sonolus/repository/LevelBgm/69d9b591c35f5bfe064181677e2e65e28857a25a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "aa75c5c1cf967687569a138f26810a0af82d9dbf",
+				"url": "/sonolus/repository/LevelPreview/aa75c5c1cf967687569a138f26810a0af82d9dbf"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a6756ec8072fe9c331f6e90c2faaba819c2572a6",
+				"url": "/sonolus/repository/LevelData/a6756ec8072fe9c331f6e90c2faaba819c2572a6"
+			}
+		},
+		{
+			"name": "ssp-hard-01020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HIT [Verse 2]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHit\nTitle:\t\t\tHIT [Verse 2]\nDuration:\t2:00.92\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t1034\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01019"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8fb67ba908f48a28197161e6bfaed20235853600",
+				"url": "/sonolus/repository/LevelCover/8fb67ba908f48a28197161e6bfaed20235853600"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6db536ccf46890f4169b102db42f0218de3478f2",
+				"url": "/sonolus/repository/LevelBgm/6db536ccf46890f4169b102db42f0218de3478f2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "994e1c5a802cd40752e2709b9a03b741ec3a13d3",
+				"url": "/sonolus/repository/LevelPreview/994e1c5a802cd40752e2709b9a03b741ec3a13d3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a6e56f4feb4e97264639a0dceecda3cf8916a40c",
+				"url": "/sonolus/repository/LevelData/a6e56f4feb4e97264639a0dceecda3cf8916a40c"
+			}
+		},
+		{
+			"name": "ssp-hard-01021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "독 : Fear"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\t독 : Fear\nDuration:\t1:16.03\nBPM:\t\t146\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t510\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6e39e032022e85b8fbbfd19a6e1e8ab62f2e7c53",
+				"url": "/sonolus/repository/LevelBgm/6e39e032022e85b8fbbfd19a6e1e8ab62f2e7c53"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d40f0c9a2e6dce9e070f53a05926e1507c503632",
+				"url": "/sonolus/repository/LevelPreview/d40f0c9a2e6dce9e070f53a05926e1507c503632"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ca0c8d6d3ff2585f885d7472c41523a34cbc44c1",
+				"url": "/sonolus/repository/LevelData/ca0c8d6d3ff2585f885d7472c41523a34cbc44c1"
+			}
+		},
+		{
+			"name": "ssp-hard-01022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Snap Shoot"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\tSnap Shoot\nDuration:\t1:23.57\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t471\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "fe12418733831811451d46d7355745cfa9413db1",
+				"url": "/sonolus/repository/LevelBgm/fe12418733831811451d46d7355745cfa9413db1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c90d32af07913b04eb0529bcb33e25c35735e6a5",
+				"url": "/sonolus/repository/LevelPreview/c90d32af07913b04eb0529bcb33e25c35735e6a5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "30def1e5dcb95eaa4aee832d725d4ff195313ed4",
+				"url": "/sonolus/repository/LevelData/30def1e5dcb95eaa4aee832d725d4ff195313ed4"
+			}
+		},
+		{
+			"name": "ssp-hard-01023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Happy Ending (Korean Ver.)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\tHappy Ending (Korean Ver.)\nDuration:\t1:34.50\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t646\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4f781f9197f92f5a9c65ee43e4540604ebe05b69",
+				"url": "/sonolus/repository/LevelBgm/4f781f9197f92f5a9c65ee43e4540604ebe05b69"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "cc7fb50af23f347c5ef5f983411ab3d64433d497",
+				"url": "/sonolus/repository/LevelPreview/cc7fb50af23f347c5ef5f983411ab3d64433d497"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "735738b53e97bd8dedaff524f49d8a24b1f80cd8",
+				"url": "/sonolus/repository/LevelData/735738b53e97bd8dedaff524f49d8a24b1f80cd8"
+			}
+		},
+		{
+			"name": "ssp-hard-01024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "독 : Fear [Verse 2]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\t독 : Fear [Verse 2]\nDuration:\t1:17.67\nBPM:\t\t146\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t497\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "eaaa863214f812dca7d56acf56d6bd1b014d5e4f",
+				"url": "/sonolus/repository/LevelBgm/eaaa863214f812dca7d56acf56d6bd1b014d5e4f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "32075617427f004bbd5f710191072f805aecea78",
+				"url": "/sonolus/repository/LevelPreview/32075617427f004bbd5f710191072f805aecea78"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "48dc550afd119d7723661aac8edfa9239fa7c691",
+				"url": "/sonolus/repository/LevelData/48dc550afd119d7723661aac8edfa9239fa7c691"
+			}
+		},
+		{
+			"name": "ssp-hard-01025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "붐붐 (Boom Boom)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\t붐붐 (Boom Boom)\nDuration:\t1:40.56\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t621\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6c64162891eec1b6b26eac4f622d178a9b419e45",
+				"url": "/sonolus/repository/LevelBgm/6c64162891eec1b6b26eac4f622d178a9b419e45"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a9f4c7ae9ae949feb9c153daa8744859f6796ea4",
+				"url": "/sonolus/repository/LevelPreview/a9f4c7ae9ae949feb9c153daa8744859f6796ea4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3103f9be92a83f0c77384df4e811c30540e4e228",
+				"url": "/sonolus/repository/LevelData/3103f9be92a83f0c77384df4e811c30540e4e228"
+			}
+		},
+		{
+			"name": "ssp-hard-01026",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "거짓말을 해 (Lie Again)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\t거짓말을 해 (Lie Again)\nDuration:\t1:39.79\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t409\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0c3c95c1681f32baf7532802cf561e6a9be8478e",
+				"url": "/sonolus/repository/LevelBgm/0c3c95c1681f32baf7532802cf561e6a9be8478e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8d4561a9b7e854d00a53992c8242dbc5a034832d",
+				"url": "/sonolus/repository/LevelPreview/8d4561a9b7e854d00a53992c8242dbc5a034832d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f5ad549c9e3b60e55ffc9f8c441e4803f9e32d46",
+				"url": "/sonolus/repository/LevelData/f5ad549c9e3b60e55ffc9f8c441e4803f9e32d46"
+			}
+		},
+		{
+			"name": "ssp-hard-01027",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Call Call Call!"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tWe Make You\nTitle:\t\t\tCall Call Call!\nDuration:\t1:42.00\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t767\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01027"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ac4afd8af01f61949f2df624a1918fc6b8d83f49",
+				"url": "/sonolus/repository/LevelCover/ac4afd8af01f61949f2df624a1918fc6b8d83f49"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "61bb6acdfe981d4eb4539d75d9dbc79d3ff31a00",
+				"url": "/sonolus/repository/LevelBgm/61bb6acdfe981d4eb4539d75d9dbc79d3ff31a00"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "524c04051bc06f8b463b913f9fa1389ad46d0bc2",
+				"url": "/sonolus/repository/LevelPreview/524c04051bc06f8b463b913f9fa1389ad46d0bc2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0207f68d7fe0039d7e1e10213fa57550d90c9a53",
+				"url": "/sonolus/repository/LevelData/0207f68d7fe0039d7e1e10213fa57550d90c9a53"
+			}
+		},
+		{
+			"name": "ssp-hard-01028",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "캠프파이어 (Campfire)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tTeen, Age\nTitle:\t\t\t캠프파이어 (Campfire)\nDuration:\t1:40.00\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t455\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c59a557b0ccc11fec99a40588c803ce92f4a7928",
+				"url": "/sonolus/repository/LevelBgm/c59a557b0ccc11fec99a40588c803ce92f4a7928"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7ebe97eb05a37a5f9e7f57a828e4dd20b05c45f6",
+				"url": "/sonolus/repository/LevelPreview/7ebe97eb05a37a5f9e7f57a828e4dd20b05c45f6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "241f7c1126ce678844ba95eb2ddc7d64b318a318",
+				"url": "/sonolus/repository/LevelData/241f7c1126ce678844ba95eb2ddc7d64b318a318"
+			}
+		},
+		{
+			"name": "ssp-hard-01029",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Let me hear you say"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\tLet me hear you say\nDuration:\t1:32.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t507\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3115a7727258906e52d2d97b492e608bc2a0d501",
+				"url": "/sonolus/repository/LevelBgm/3115a7727258906e52d2d97b492e608bc2a0d501"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "65bbdf4da32fe67b5df91ab6699d671e4f02f63b",
+				"url": "/sonolus/repository/LevelPreview/65bbdf4da32fe67b5df91ab6699d671e4f02f63b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ee620787fa92ad267c3bbc6d1a2ef99792779594",
+				"url": "/sonolus/repository/LevelData/ee620787fa92ad267c3bbc6d1a2ef99792779594"
+			}
+		},
+		{
+			"name": "ssp-hard-01030",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Thinkin` about you"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tDirector's Cut\nTitle:\t\t\tThinkin` about you\nDuration:\t1:34.44\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t489\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ffef61dcaf5e49a6f19f71b422973649bda60091",
+				"url": "/sonolus/repository/LevelCover/ffef61dcaf5e49a6f19f71b422973649bda60091"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e4c71524df2f00a03b0429a100a2203784b0ed52",
+				"url": "/sonolus/repository/LevelBgm/e4c71524df2f00a03b0429a100a2203784b0ed52"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bc8a71696148d59a8c811d2d84b3357841423b1f",
+				"url": "/sonolus/repository/LevelPreview/bc8a71696148d59a8c811d2d84b3357841423b1f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "50f203c91d7aed63b9bfa6e80d2021e3661e59f3",
+				"url": "/sonolus/repository/LevelData/50f203c91d7aed63b9bfa6e80d2021e3661e59f3"
+			}
+		},
+		{
+			"name": "ssp-hard-01031",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Network Love"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\tNetwork Love\nDuration:\t1:25.86\nBPM:\t\t116\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t471\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b8975b5cb4a567e7851163c5f06031217058ac05",
+				"url": "/sonolus/repository/LevelBgm/b8975b5cb4a567e7851163c5f06031217058ac05"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "39b41eb4f57853c4116a7a77aa5407ea2bf31d6c",
+				"url": "/sonolus/repository/LevelPreview/39b41eb4f57853c4116a7a77aa5407ea2bf31d6c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9ce53fb1a487e136e3c71eb8af61d5e6cd702134",
+				"url": "/sonolus/repository/LevelData/9ce53fb1a487e136e3c71eb8af61d5e6cd702134"
+			}
+		},
+		{
+			"name": "ssp-hard-01032",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Falling For U"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tDirector's Cut\nTitle:\t\t\tFalling For U\nDuration:\t1:52.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t426\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ffef61dcaf5e49a6f19f71b422973649bda60091",
+				"url": "/sonolus/repository/LevelCover/ffef61dcaf5e49a6f19f71b422973649bda60091"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a1da8977cc8ed4456c8d05b92b718696b6b4de52",
+				"url": "/sonolus/repository/LevelBgm/a1da8977cc8ed4456c8d05b92b718696b6b4de52"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1cd98d806fddaee3d098d3b879d5752368b73c35",
+				"url": "/sonolus/repository/LevelPreview/1cd98d806fddaee3d098d3b879d5752368b73c35"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "262097f04d5d11350b085793240fd327decea31a",
+				"url": "/sonolus/repository/LevelData/262097f04d5d11350b085793240fd327decea31a"
+			}
+		},
+		{
+			"name": "ssp-hard-01033",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "빠른 걸음 (Fast Step)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\t빠른 걸음 (Fast Step)\nDuration:\t1:51.65\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t609\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5146fa3b78d1a03ef7a3186517a290f117b225b1",
+				"url": "/sonolus/repository/LevelBgm/5146fa3b78d1a03ef7a3186517a290f117b225b1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f576aac678796b89a2b215841444f7a4ffb062d6",
+				"url": "/sonolus/repository/LevelPreview/f576aac678796b89a2b215841444f7a4ffb062d6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "43959050daeab3bab51766a4e2757ef1dcc9c1a8",
+				"url": "/sonolus/repository/LevelData/43959050daeab3bab51766a4e2757ef1dcc9c1a8"
+			}
+		},
+		{
+			"name": "ssp-hard-01034",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Left & Right"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\tLeft & Right\nDuration:\t1:20.80\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t475\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4b92b371420f09866d5687a64963e71486c39132",
+				"url": "/sonolus/repository/LevelBgm/4b92b371420f09866d5687a64963e71486c39132"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "dd7d6008c7c42001e18c3be04f9418a64530e1cb",
+				"url": "/sonolus/repository/LevelPreview/dd7d6008c7c42001e18c3be04f9418a64530e1cb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "164c3673ec29a2455f751244920f346f2cbfde67",
+				"url": "/sonolus/repository/LevelData/164c3673ec29a2455f751244920f346f2cbfde67"
+			}
+		},
+		{
+			"name": "ssp-hard-01035",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Left & Right [Verse 2]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\tLeft & Right [Verse 2]\nDuration:\t1:16.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t472\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4ff76833486a86ee9340099a33d242dba1bd991e",
+				"url": "/sonolus/repository/LevelBgm/4ff76833486a86ee9340099a33d242dba1bd991e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1a27ecce3b2110a0a4ac977b0081740709d00bc7",
+				"url": "/sonolus/repository/LevelPreview/1a27ecce3b2110a0a4ac977b0081740709d00bc7"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7d5b4e9f48dc87e83641e30b01dd03cdfa27b31f",
+				"url": "/sonolus/repository/LevelData/7d5b4e9f48dc87e83641e30b01dd03cdfa27b31f"
+			}
+		},
+		{
+			"name": "ssp-hard-01036",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "날 쏘고 가라 (Bring It)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tTeen, Age\nTitle:\t\t\t날 쏘고 가라 (Bring It)\nDuration:\t1:46.02\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t666\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6b727f395079d26178739325a3677561f4b19988",
+				"url": "/sonolus/repository/LevelBgm/6b727f395079d26178739325a3677561f4b19988"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "832f30c297bf488c979a97dfbef62481f3d5e875",
+				"url": "/sonolus/repository/LevelPreview/832f30c297bf488c979a97dfbef62481f3d5e875"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "090d782bd2aae09e67cf3e67ec0cc51b2f7a7f2b",
+				"url": "/sonolus/repository/LevelData/090d782bd2aae09e67cf3e67ec0cc51b2f7a7f2b"
+			}
+		},
+		{
+			"name": "ssp-hard-01037",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "My My"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\tMy My\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t679\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8a02f9a17d6e7042fae0c2bc94dcdd93614dbe89",
+				"url": "/sonolus/repository/LevelBgm/8a02f9a17d6e7042fae0c2bc94dcdd93614dbe89"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1c12cf3b948c7a51534cf5475c2e5b98feb08dc0",
+				"url": "/sonolus/repository/LevelPreview/1c12cf3b948c7a51534cf5475c2e5b98feb08dc0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "106e1e90e5685e7ae353c7ec2e7392bac8f8463c",
+				"url": "/sonolus/repository/LevelData/106e1e90e5685e7ae353c7ec2e7392bac8f8463c"
+			}
+		},
+		{
+			"name": "ssp-hard-01038",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "My My [Verse 2]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\tMy My [Verse 2]\nDuration:\t1:46.20\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t724\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a8189bdb2a77711b2bf66008bd812292d6b0ee8a",
+				"url": "/sonolus/repository/LevelBgm/a8189bdb2a77711b2bf66008bd812292d6b0ee8a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "39dbf29587b15af10a852dfa5569d4aeaacda098",
+				"url": "/sonolus/repository/LevelPreview/39dbf29587b15af10a852dfa5569d4aeaacda098"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6a504e8fa29def3c5b822e1457648dae188fd06c",
+				"url": "/sonolus/repository/LevelData/6a504e8fa29def3c5b822e1457648dae188fd06c"
+			}
+		},
+		{
+			"name": "ssp-hard-01039",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "같이 가요 (Together)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\t같이 가요 (Together)\nDuration:\t1:45.93\nBPM:\t\t162\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t734\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d36107458eca1644070fb644632fa49550d1aa04",
+				"url": "/sonolus/repository/LevelBgm/d36107458eca1644070fb644632fa49550d1aa04"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fab32ddfcb6d40848233f4fa05b95f61ce60ab2c",
+				"url": "/sonolus/repository/LevelPreview/fab32ddfcb6d40848233f4fa05b95f61ce60ab2c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bc3a70f2f42ef43095906a67550c57de155a50a5",
+				"url": "/sonolus/repository/LevelData/bc3a70f2f42ef43095906a67550c57de155a50a5"
+			}
+		},
+		{
+			"name": "ssp-hard-01040",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "만세 (Mansae)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tBoys Be\nTitle:\t\t\t만세 (Mansae)\nDuration:\t1:43.93\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t729\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bfbb0644be7658c372929d66f371242a49dffaa7",
+				"url": "/sonolus/repository/LevelCover/bfbb0644be7658c372929d66f371242a49dffaa7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "196225e1e6c86c5fea6da0995b65bdb1390af568",
+				"url": "/sonolus/repository/LevelBgm/196225e1e6c86c5fea6da0995b65bdb1390af568"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "40eb5c16ed6cfcd6cd45f49e115b456118efcb46",
+				"url": "/sonolus/repository/LevelPreview/40eb5c16ed6cfcd6cd45f49e115b456118efcb46"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2e3d6336a11b85ec378789f51da51230dbdd9e3c",
+				"url": "/sonolus/repository/LevelData/2e3d6336a11b85ec378789f51da51230dbdd9e3c"
+			}
+		},
+		{
+			"name": "ssp-hard-01041",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "아주 NICE [Verse 2]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter (Repackage)\nTitle:\t\t\t아주 NICE [Verse 2]\nDuration:\t1:13.77\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t450\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "009a251d8ba8d556fcad10ea6de1afb2401de4f7",
+				"url": "/sonolus/repository/LevelCover/009a251d8ba8d556fcad10ea6de1afb2401de4f7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5472288fc6d77c5a0e94ad93cf5022704b501814",
+				"url": "/sonolus/repository/LevelBgm/5472288fc6d77c5a0e94ad93cf5022704b501814"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f676278e91d6da5d7bbf8fd3c00eaac13fec843c",
+				"url": "/sonolus/repository/LevelPreview/f676278e91d6da5d7bbf8fd3c00eaac13fec843c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1c8bd7e366fd16903db8e230c14cec2c2c29b73d",
+				"url": "/sonolus/repository/LevelData/1c8bd7e366fd16903db8e230c14cec2c2c29b73d"
+			}
+		},
+		{
+			"name": "ssp-hard-01042",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ROCK"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tBoys Be\nTitle:\t\t\tROCK\nDuration:\t1:42.06\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t657\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "bfbb0644be7658c372929d66f371242a49dffaa7",
+				"url": "/sonolus/repository/LevelCover/bfbb0644be7658c372929d66f371242a49dffaa7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f6d08323474001a09417d61c6d89e075ad0584c4",
+				"url": "/sonolus/repository/LevelBgm/f6d08323474001a09417d61c6d89e075ad0584c4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "47b448c956ac54027a35f783d2a433edc8534663",
+				"url": "/sonolus/repository/LevelPreview/47b448c956ac54027a35f783d2a433edc8534663"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "af7981d92773f665593cd952c08aba8393dfdf33",
+				"url": "/sonolus/repository/LevelData/af7981d92773f665593cd952c08aba8393dfdf33"
+			}
+		},
+		{
+			"name": "ssp-hard-01043",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "아낀다 (Adore U)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\t17 Carat\nTitle:\t\t\t아낀다 (Adore U)\nDuration:\t1:27.65\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t485\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b4f589d0f8ae387b950fee3bec324acd54592f69",
+				"url": "/sonolus/repository/LevelCover/b4f589d0f8ae387b950fee3bec324acd54592f69"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ff7f32f8ec8c290323d087388371cf194581fbfa",
+				"url": "/sonolus/repository/LevelBgm/ff7f32f8ec8c290323d087388371cf194581fbfa"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f7916f99cfdac851288617d99fc13a9700fe9988",
+				"url": "/sonolus/repository/LevelPreview/f7916f99cfdac851288617d99fc13a9700fe9988"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6d247c1a46881c207c7ee470f40ed67fbe8df925",
+				"url": "/sonolus/repository/LevelData/6d247c1a46881c207c7ee470f40ed67fbe8df925"
+			}
+		},
+		{
+			"name": "ssp-hard-01044",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "좋겠다 (I WISH)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\t좋겠다 (I WISH)\nDuration:\t1:48.79\nBPM:\t\t91\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t459\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9bf07609ef4a40c8bd83d6c6ab63a209b1523485",
+				"url": "/sonolus/repository/LevelBgm/9bf07609ef4a40c8bd83d6c6ab63a209b1523485"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8ea3bcfa0c4a1f9fc3a2eeb14e820e60758014bd",
+				"url": "/sonolus/repository/LevelPreview/8ea3bcfa0c4a1f9fc3a2eeb14e820e60758014bd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c5a7fac5a72e5528920e150dcd7baa9ffcfb29f8",
+				"url": "/sonolus/repository/LevelData/c5a7fac5a72e5528920e150dcd7baa9ffcfb29f8"
+			}
+		},
+		{
+			"name": "ssp-hard-01045",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HOME;RUN"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tSemicolon\nTitle:\t\t\tHOME;RUN\nDuration:\t1:25.00\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t543\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01045"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1ba435ac8168426ce9d95d05dc4827595f6f817f",
+				"url": "/sonolus/repository/LevelCover/1ba435ac8168426ce9d95d05dc4827595f6f817f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aead19a8fbf44eff3a956158dcb48df1287ada09",
+				"url": "/sonolus/repository/LevelBgm/aead19a8fbf44eff3a956158dcb48df1287ada09"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "daaf3df43df539383994db9a63c43f0681c11352",
+				"url": "/sonolus/repository/LevelPreview/daaf3df43df539383994db9a63c43f0681c11352"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "641a3d222a4e4b21f8e42602c659b8ce14a8bdd8",
+				"url": "/sonolus/repository/LevelData/641a3d222a4e4b21f8e42602c659b8ce14a8bdd8"
+			}
+		},
+		{
+			"name": "ssp-hard-01046",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "겨우 (All My Love)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tSemicolon\nTitle:\t\t\t겨우 (All My Love)\nDuration:\t1:45.00\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t525\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01045"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1ba435ac8168426ce9d95d05dc4827595f6f817f",
+				"url": "/sonolus/repository/LevelCover/1ba435ac8168426ce9d95d05dc4827595f6f817f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "483b13f2fd1fddef07d4c37a7c775d70306fb1a8",
+				"url": "/sonolus/repository/LevelBgm/483b13f2fd1fddef07d4c37a7c775d70306fb1a8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bf43c90e80cfd06b35fcda819d9899ba4f43e74a",
+				"url": "/sonolus/repository/LevelPreview/bf43c90e80cfd06b35fcda819d9899ba4f43e74a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b6d1198f3564153d4d5d8a1eb558c51290618050",
+				"url": "/sonolus/repository/LevelData/b6d1198f3564153d4d5d8a1eb558c51290618050"
+			}
+		},
+		{
+			"name": "ssp-hard-01047",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Lucky"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tAn Ode\nTitle:\t\t\tLucky\nDuration:\t1:29.33\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t531\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01021"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1cf27667429ec7c7d91a0b9bf8109558eb161fc1",
+				"url": "/sonolus/repository/LevelBgm/1cf27667429ec7c7d91a0b9bf8109558eb161fc1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2f2fc7dcfcc2cf93657ac48228f111d92e6cd9a9",
+				"url": "/sonolus/repository/LevelPreview/2f2fc7dcfcc2cf93657ac48228f111d92e6cd9a9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6a00766f06c41f927d43b114ba3aefc97f117e45",
+				"url": "/sonolus/repository/LevelData/6a00766f06c41f927d43b114ba3aefc97f117e45"
+			}
+		},
+		{
+			"name": "ssp-hard-01048",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Fearless"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tHeng:garæ\nTitle:\t\t\tFearless\nDuration:\t1:31.39\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t533\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01034"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "578e90a78951cf82d76a2a5520d3ea3609ad1c5c",
+				"url": "/sonolus/repository/LevelCover/578e90a78951cf82d76a2a5520d3ea3609ad1c5c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "809e17160d9785a459785ecba3f2dc484a69e116",
+				"url": "/sonolus/repository/LevelBgm/809e17160d9785a459785ecba3f2dc484a69e116"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "13cd79ae7c0e6bc22da7fa419036cfca3388c06a",
+				"url": "/sonolus/repository/LevelPreview/13cd79ae7c0e6bc22da7fa419036cfca3388c06a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e5c2e338efa2e0766226d7aa652eb062f9e20030",
+				"url": "/sonolus/repository/LevelData/e5c2e338efa2e0766226d7aa652eb062f9e20030"
+			}
+		},
+		{
+			"name": "ssp-hard-01049",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HEY BUDDY"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tSemicolon\nTitle:\t\t\tHEY BUDDY\nDuration:\t1:27.93\nBPM:\t\t116\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t526\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01045"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1ba435ac8168426ce9d95d05dc4827595f6f817f",
+				"url": "/sonolus/repository/LevelCover/1ba435ac8168426ce9d95d05dc4827595f6f817f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e9cb0029be62e7af9673cf1637650fb60dd22289",
+				"url": "/sonolus/repository/LevelBgm/e9cb0029be62e7af9673cf1637650fb60dd22289"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "31a13339565931d5b87e31357822bdfd900e63b2",
+				"url": "/sonolus/repository/LevelPreview/31a13339565931d5b87e31357822bdfd900e63b2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b020407c06788100cdbc7f1b120f37b9c9cb4de6",
+				"url": "/sonolus/repository/LevelData/b020407c06788100cdbc7f1b120f37b9c9cb4de6"
+			}
+		},
+		{
+			"name": "ssp-hard-01050",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Flower"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tTeen, Age\nTitle:\t\t\tFlower\nDuration:\t1:32.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t519\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4fcbb4186abf7208a537ba6e1f4dfb4896d863c8",
+				"url": "/sonolus/repository/LevelBgm/4fcbb4186abf7208a537ba6e1f4dfb4896d863c8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7b594ad551a36a9b27c0338e0beed6e1f9dd3ff3",
+				"url": "/sonolus/repository/LevelPreview/7b594ad551a36a9b27c0338e0beed6e1f9dd3ff3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ddb3e3d39efe38c685031d1ee925f258ad00a20d",
+				"url": "/sonolus/repository/LevelData/ddb3e3d39efe38c685031d1ee925f258ad00a20d"
+			}
+		},
+		{
+			"name": "ssp-hard-01051",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "떠내려가 (Drift Away)"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter\nTitle:\t\t\t떠내려가 (Drift Away)\nDuration:\t1:45.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t579\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "015212d1450b4e29e99e3bba419967dea0aa5cbf",
+				"url": "/sonolus/repository/LevelCover/015212d1450b4e29e99e3bba419967dea0aa5cbf"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4527e9938a242b53b2b1e21e6e6e35a0ae1c7b1d",
+				"url": "/sonolus/repository/LevelBgm/4527e9938a242b53b2b1e21e6e6e35a0ae1c7b1d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "95684828c836bcb2b7bf63facd3d11315d8d78f8",
+				"url": "/sonolus/repository/LevelPreview/95684828c836bcb2b7bf63facd3d11315d8d78f8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9fe0a2e55d1e8e129fe91cdb24d6d0a0955647a5",
+				"url": "/sonolus/repository/LevelData/9fe0a2e55d1e8e129fe91cdb24d6d0a0955647a5"
+			}
+		},
+		{
+			"name": "ssp-hard-06001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "거침없이 (Just do it)"
+			},
+			"artists": {
+				"en": "BSS"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tBSS\nAlbum:\t\tJust Do It\nTitle:\t\t\t거침없이 (Just do it)\nDuration:\t1:19.20\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t685\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-06001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0a86e5281afb952414e86268ef401e811c6d1e0f",
+				"url": "/sonolus/repository/LevelCover/0a86e5281afb952414e86268ef401e811c6d1e0f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ccd468f44a2b824adc924747a9229c0fb4fcf401",
+				"url": "/sonolus/repository/LevelBgm/ccd468f44a2b824adc924747a9229c0fb4fcf401"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4648fae7591aa6839eaddb02eb6074d693e67253",
+				"url": "/sonolus/repository/LevelPreview/4648fae7591aa6839eaddb02eb6074d693e67253"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "892c753af930463617dbdc63a15a3fa0346d69ab",
+				"url": "/sonolus/repository/LevelData/892c753af930463617dbdc63a15a3fa0346d69ab"
+			}
+		},
+		{
+			"name": "ssp-hard-07001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "기대 (Lean On Me)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [HIPHOP]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [HIPHOP]\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\t기대 (Lean On Me)\nDuration:\t1:46.75\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t589\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cf6b0e6d8dfda89580b2fd9f2b3e7fa3c5346fff",
+				"url": "/sonolus/repository/LevelBgm/cf6b0e6d8dfda89580b2fd9f2b3e7fa3c5346fff"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "19a501a7ca9cd0d8c1faaff32ee4f9b34d6c1130",
+				"url": "/sonolus/repository/LevelPreview/19a501a7ca9cd0d8c1faaff32ee4f9b34d6c1130"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "23000aac29ac2c035b2822bf5eefb5b90a61330f",
+				"url": "/sonolus/repository/LevelData/23000aac29ac2c035b2822bf5eefb5b90a61330f"
+			}
+		},
+		{
+			"name": "ssp-hard-07002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "칠리 (Chilli)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [HIPHOP]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [HIPHOP]\nAlbum:\t\tYou Made My Dawn\nTitle:\t\t\t칠리 (Chilli)\nDuration:\t1:26.80\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t620\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "bd35cec8b232d7fef34cf242c49ad4b0d1f5caa6",
+				"url": "/sonolus/repository/LevelBgm/bd35cec8b232d7fef34cf242c49ad4b0d1f5caa6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "41a7b07ded8f2f8c8991d614f546e956918d009b",
+				"url": "/sonolus/repository/LevelPreview/41a7b07ded8f2f8c8991d614f546e956918d009b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "551d002e4c1b05b6809a4b605481f65cc1f645ac",
+				"url": "/sonolus/repository/LevelData/551d002e4c1b05b6809a4b605481f65cc1f645ac"
+			}
+		},
+		{
+			"name": "ssp-hard-07003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Back it up"
+			},
+			"artists": {
+				"en": "SEVENTEEN [HIPHOP]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [HIPHOP]\nAlbum:\t\tAn Ode\nTitle:\t\t\tBack it up\nDuration:\t1:38.50\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t663\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ac092568db0ec82ccd038a300774b683ff7bcfba",
+				"url": "/sonolus/repository/LevelBgm/ac092568db0ec82ccd038a300774b683ff7bcfba"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e524063665f73ae67c3bf702d133a87ebc9cb74d",
+				"url": "/sonolus/repository/LevelPreview/e524063665f73ae67c3bf702d133a87ebc9cb74d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2b818242e7bee83ede56d5ca358f522971fcd416",
+				"url": "/sonolus/repository/LevelData/2b818242e7bee83ede56d5ca358f522971fcd416"
+			}
+		},
+		{
+			"name": "ssp-hard-07004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "What's Good"
+			},
+			"artists": {
+				"en": "SEVENTEEN [HIPHOP]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [HIPHOP]\nAlbum:\t\tYou Make My Day\nTitle:\t\t\tWhat's Good\nDuration:\t1:25.35\nBPM:\t\t116\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t569\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b53d66692a68e71e6d209580a107ec8cd46cd35a",
+				"url": "/sonolus/repository/LevelBgm/b53d66692a68e71e6d209580a107ec8cd46cd35a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8655c9ac289ed0f40533f49b9590f0039e1f5034",
+				"url": "/sonolus/repository/LevelPreview/8655c9ac289ed0f40533f49b9590f0039e1f5034"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3ce1a9b014c052ab6e22e388740b5e631181ec41",
+				"url": "/sonolus/repository/LevelData/3ce1a9b014c052ab6e22e388740b5e631181ec41"
+			}
+		},
+		{
+			"name": "ssp-hard-07005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "끝이 안보여 (Can't See The End)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [HIPHOP]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [HIPHOP]\nAlbum:\t\tLove&Letter (Repackage)\nTitle:\t\t\t끝이 안보여 (Can't See The End)\nDuration:\t1:23.48\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t387\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "009a251d8ba8d556fcad10ea6de1afb2401de4f7",
+				"url": "/sonolus/repository/LevelCover/009a251d8ba8d556fcad10ea6de1afb2401de4f7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "27f06746bff4cfca3994844eeff7596c9fd80e07",
+				"url": "/sonolus/repository/LevelBgm/27f06746bff4cfca3994844eeff7596c9fd80e07"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "71dafc45588a1756c8e401f3b2d8d494a616165b",
+				"url": "/sonolus/repository/LevelPreview/71dafc45588a1756c8e401f3b2d8d494a616165b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "47bc86cb551fa94b1f95cbe5e085a49055309f67",
+				"url": "/sonolus/repository/LevelData/47bc86cb551fa94b1f95cbe5e085a49055309f67"
+			}
+		},
+		{
+			"name": "ssp-hard-08001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "바람개비 (Pinwheel)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [VOCAL]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [VOCAL]\nAlbum:\t\tTeen, Age\nTitle:\t\t\t바람개비 (Pinwheel)\nDuration:\t1:36.55\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t491\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-08001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "626e3054005de27f5e979cd44fee55b883c5c0ba",
+				"url": "/sonolus/repository/LevelBgm/626e3054005de27f5e979cd44fee55b883c5c0ba"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bc6345f83bb6221787aa183bcb5d92c38f300f6e",
+				"url": "/sonolus/repository/LevelPreview/bc6345f83bb6221787aa183bcb5d92c38f300f6e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3d5576637a9328fd69d4de6aa31ff645f32ea80d",
+				"url": "/sonolus/repository/LevelData/3d5576637a9328fd69d4de6aa31ff645f32ea80d"
+			}
+		},
+		{
+			"name": "ssp-hard-08002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "포옹 (Hug)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [VOCAL]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [VOCAL]\nAlbum:\t\tYou Made My Dawn\nTitle:\t\t\t포옹 (Hug)\nDuration:\t1:30.44\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t394\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e651ac5a63b3a254b51d7d129366ece9957d753c",
+				"url": "/sonolus/repository/LevelBgm/e651ac5a63b3a254b51d7d129366ece9957d753c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7877d1c604cfc3b9b1448b17afd04cd83c4ac06e",
+				"url": "/sonolus/repository/LevelPreview/7877d1c604cfc3b9b1448b17afd04cd83c4ac06e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "392023e02af0267790ed58096e2c1917e5f283fc",
+				"url": "/sonolus/repository/LevelData/392023e02af0267790ed58096e2c1917e5f283fc"
+			}
+		},
+		{
+			"name": "ssp-hard-08003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Second Life"
+			},
+			"artists": {
+				"en": "SEVENTEEN [VOCAL]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [VOCAL]\nAlbum:\t\tAn Ode\nTitle:\t\t\tSecond Life\nDuration:\t1:20.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t334\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-08003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "30f535eecffcb13468a3659b31a2ba13d97bde8e",
+				"url": "/sonolus/repository/LevelBgm/30f535eecffcb13468a3659b31a2ba13d97bde8e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "479367e84c1b4ee188e6e49a9b827c8d3cc26db5",
+				"url": "/sonolus/repository/LevelPreview/479367e84c1b4ee188e6e49a9b827c8d3cc26db5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c625c8d5727cb073fe89bb4b3f01f9e736c80a95",
+				"url": "/sonolus/repository/LevelData/c625c8d5727cb073fe89bb4b3f01f9e736c80a95"
+			}
+		},
+		{
+			"name": "ssp-hard-08004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "몰래 듣지 마요 (Don't Listen in Secret)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [VOCAL]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [VOCAL]\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\t몰래 듣지 마요 (Don't Listen in Secret)\nDuration:\t1:38.95\nBPM:\t\t114\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t445\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-08004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "07e1d5d0350a7c0e3c4072fec6ec7d3b9b054a2a",
+				"url": "/sonolus/repository/LevelBgm/07e1d5d0350a7c0e3c4072fec6ec7d3b9b054a2a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e67ac88156cf08160206239e8f1dd77ffe0f2ce3",
+				"url": "/sonolus/repository/LevelPreview/e67ac88156cf08160206239e8f1dd77ffe0f2ce3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3dc6582429296d00592bf44ed1837b99812bcf38",
+				"url": "/sonolus/repository/LevelData/3dc6582429296d00592bf44ed1837b99812bcf38"
+			}
+		},
+		{
+			"name": "ssp-hard-08005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "나에게로 와 (Come To Me)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [VOCAL]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [VOCAL]\nAlbum:\t\tYou Make My Day\nTitle:\t\t\t나에게로 와 (Come To Me)\nDuration:\t1:31.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t485\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5fe36d820f3d041caf9b8bdae96a1d6c3fbe1abe",
+				"url": "/sonolus/repository/LevelBgm/5fe36d820f3d041caf9b8bdae96a1d6c3fbe1abe"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d2cdb01cef1e14ebdf5e1df8696dab8595a716ff",
+				"url": "/sonolus/repository/LevelPreview/d2cdb01cef1e14ebdf5e1df8696dab8595a716ff"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "77fe8ccd6c805afb9985cac274fba2d3126e602a",
+				"url": "/sonolus/repository/LevelData/77fe8ccd6c805afb9985cac274fba2d3126e602a"
+			}
+		},
+		{
+			"name": "ssp-hard-09001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HIGHLIGHT"
+			},
+			"artists": {
+				"en": "SEVENTEEN [PERFORMANCE]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [PERFORMANCE]\nAlbum:\t\tGoing Seventeen\nTitle:\t\t\tHIGHLIGHT\nDuration:\t1:41.38\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t698\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-09001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1e852b7d2c9e2843b2236775b6cb2e80fa0c2104",
+				"url": "/sonolus/repository/LevelCover/1e852b7d2c9e2843b2236775b6cb2e80fa0c2104"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2ff36331635d2fd5ba6fa08dc4e7602bc15c7df8",
+				"url": "/sonolus/repository/LevelBgm/2ff36331635d2fd5ba6fa08dc4e7602bc15c7df8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "53ffb7797cb9a5c2c1845a5d8e52175cfaf9ba46",
+				"url": "/sonolus/repository/LevelPreview/53ffb7797cb9a5c2c1845a5d8e52175cfaf9ba46"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7ac653e9d90d62124fe26d7a0691dd6e916e0cb1",
+				"url": "/sonolus/repository/LevelData/7ac653e9d90d62124fe26d7a0691dd6e916e0cb1"
+			}
+		},
+		{
+			"name": "ssp-hard-09002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Shhh"
+			},
+			"artists": {
+				"en": "SEVENTEEN [PERFORMANCE]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [PERFORMANCE]\nAlbum:\t\tYou Made My Dawn\nTitle:\t\t\tShhh\nDuration:\t1:33.96\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t630\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "e027fd27a9958f35e6e3ae67ddb73b0b35d046ec",
+				"url": "/sonolus/repository/LevelCover/e027fd27a9958f35e6e3ae67ddb73b0b35d046ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a52262cdd6d4f4f5837d22a9931b87e2893ea21a",
+				"url": "/sonolus/repository/LevelBgm/a52262cdd6d4f4f5837d22a9931b87e2893ea21a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "efa9129505d16f19773b11699c4f4cf3c9224967",
+				"url": "/sonolus/repository/LevelPreview/efa9129505d16f19773b11699c4f4cf3c9224967"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7152ad643b192007ded65bac92c8b73a544dd1e3",
+				"url": "/sonolus/repository/LevelData/7152ad643b192007ded65bac92c8b73a544dd1e3"
+			}
+		},
+		{
+			"name": "ssp-hard-09003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "247"
+			},
+			"artists": {
+				"en": "SEVENTEEN [PERFORMANCE]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [PERFORMANCE]\nAlbum:\t\tAn Ode\nTitle:\t\t\t247\nDuration:\t1:24.38\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t482\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-09003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0734b11ec28f282f4230b77b1cd1adfed82fffd7",
+				"url": "/sonolus/repository/LevelCover/0734b11ec28f282f4230b77b1cd1adfed82fffd7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e0a8e53fbf11be804cb3fa723609ace43f11ac94",
+				"url": "/sonolus/repository/LevelBgm/e0a8e53fbf11be804cb3fa723609ace43f11ac94"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b42af3a3e64cacbb1d9577c614096eb0ce98fdf3",
+				"url": "/sonolus/repository/LevelPreview/b42af3a3e64cacbb1d9577c614096eb0ce98fdf3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d6a1564ef318a5b884d467ab1478d3318e8a0d55",
+				"url": "/sonolus/repository/LevelData/d6a1564ef318a5b884d467ab1478d3318e8a0d55"
+			}
+		},
+		{
+			"name": "ssp-hard-09004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "13월의 춤 (Lilili Yabbay)"
+			},
+			"artists": {
+				"en": "SEVENTEEN [PERFORMANCE]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [PERFORMANCE]\nAlbum:\t\tTeen, Age\nTitle:\t\t\t13월의 춤 (Lilili Yabbay)\nDuration:\t1:39.11\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t530\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-09004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "97385226ce34ebc886e96fe3426048ac2e8460a0",
+				"url": "/sonolus/repository/LevelCover/97385226ce34ebc886e96fe3426048ac2e8460a0"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ef1a4ca926d9a0309906adcb3a1d2e58123a81ad",
+				"url": "/sonolus/repository/LevelBgm/ef1a4ca926d9a0309906adcb3a1d2e58123a81ad"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f1f4bb2722ca4a8033b7cf569e4fc2877af0aca8",
+				"url": "/sonolus/repository/LevelPreview/f1f4bb2722ca4a8033b7cf569e4fc2877af0aca8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "69d50844eb45afaee272758e87585c4bac46538e",
+				"url": "/sonolus/repository/LevelData/69d50844eb45afaee272758e87585c4bac46538e"
+			}
+		},
+		{
+			"name": "ssp-hard-09005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "MOONWALKER"
+			},
+			"artists": {
+				"en": "SEVENTEEN [PERFORMANCE]"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN [PERFORMANCE]\nAlbum:\t\tYou Make My Day\nTitle:\t\t\tMOONWALKER\nDuration:\t1:29.51\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t437\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1a52fab599d485dc0d90e403db420637b8e5b369",
+				"url": "/sonolus/repository/LevelCover/1a52fab599d485dc0d90e403db420637b8e5b369"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7bef86715001451e265c5719fa13025bc00a6b67",
+				"url": "/sonolus/repository/LevelBgm/7bef86715001451e265c5719fa13025bc00a6b67"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6e3a6951f9f5d66e43648a51e1318f795f0cd679",
+				"url": "/sonolus/repository/LevelPreview/6e3a6951f9f5d66e43648a51e1318f795f0cd679"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c0e3ee86d02a1a056d23893a9c54b4ab80127978",
+				"url": "/sonolus/repository/LevelData/c0e3ee86d02a1a056d23893a9c54b4ab80127978"
+			}
+		},
+		{
+			"name": "ssp-hard-10001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "아주 NICE [April Fool's]"
+			},
+			"artists": {
+				"en": "SEVENTEEN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tSEVENTEEN\nAlbum:\t\tLove&Letter (Repackage)\nTitle:\t\t\t아주 NICE [April Fool's]\nDuration:\t1:05.90\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t347\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-01004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "009a251d8ba8d556fcad10ea6de1afb2401de4f7",
+				"url": "/sonolus/repository/LevelCover/009a251d8ba8d556fcad10ea6de1afb2401de4f7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1da88713299056ec1389a7ba0950d56e2a4138b2",
+				"url": "/sonolus/repository/LevelBgm/1da88713299056ec1389a7ba0950d56e2a4138b2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3692d05bdd2b4234a84f64f7f40c2769ac28765d",
+				"url": "/sonolus/repository/LevelPreview/3692d05bdd2b4234a84f64f7f40c2769ac28765d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5e89302780784fc096b96b5c465c4bd467baf14b",
+				"url": "/sonolus/repository/LevelData/5e89302780784fc096b96b5c465c4bd467baf14b"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-01001",
+			"version": 2,
+			"title": {
+				"en": "17 Carat default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\t17 Carat\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a0f8c81f38536047855222dbea7c9f9d5a476519",
+				"url": "/sonolus/repository/BackgroundThumbnail/a0f8c81f38536047855222dbea7c9f9d5a476519"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "0ac7c14cd9c024161be99cbebbaa1a91fdaf6981",
+				"url": "/sonolus/repository/BackgroundImage/0ac7c14cd9c024161be99cbebbaa1a91fdaf6981"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01002",
+			"version": 2,
+			"title": {
+				"en": "Boys Be default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tBoys Be\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9479e08439dcc73bd334a4493b8cced2ff39a921",
+				"url": "/sonolus/repository/BackgroundThumbnail/9479e08439dcc73bd334a4493b8cced2ff39a921"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "ffbecf133c72b24c61ad1fbd32ff5b1a5eb8d39f",
+				"url": "/sonolus/repository/BackgroundImage/ffbecf133c72b24c61ad1fbd32ff5b1a5eb8d39f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01003",
+			"version": 2,
+			"title": {
+				"en": "Love&Letter default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tLove&Letter\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "2ced3f5d53e545592752fe3d52bb4988ece7e1bc",
+				"url": "/sonolus/repository/BackgroundThumbnail/2ced3f5d53e545592752fe3d52bb4988ece7e1bc"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "096d3487d0563f00fde631a63f0c87871144d97d",
+				"url": "/sonolus/repository/BackgroundImage/096d3487d0563f00fde631a63f0c87871144d97d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01004",
+			"version": 2,
+			"title": {
+				"en": "Love&Letter (Repackage) default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tLove&Letter (Repackage)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "33dcc270ffd4654c9678f69f38480465bedb5ce5",
+				"url": "/sonolus/repository/BackgroundThumbnail/33dcc270ffd4654c9678f69f38480465bedb5ce5"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "d07381ee80763286ed3804cdd81b6e2548f325be",
+				"url": "/sonolus/repository/BackgroundImage/d07381ee80763286ed3804cdd81b6e2548f325be"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01005",
+			"version": 2,
+			"title": {
+				"en": "Going Seventeen default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tGoing Seventeen\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "36433c8dc6eb2b19e49a5704ba8f34b5acfb60b9",
+				"url": "/sonolus/repository/BackgroundThumbnail/36433c8dc6eb2b19e49a5704ba8f34b5acfb60b9"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a4b91d632e3743d5609860575f3e3622e4daff18",
+				"url": "/sonolus/repository/BackgroundImage/a4b91d632e3743d5609860575f3e3622e4daff18"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01006",
+			"version": 2,
+			"title": {
+				"en": "Teen, Age default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tTeen, Age\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "cf4604860c0041c476e605e2b775527d17bd697e",
+				"url": "/sonolus/repository/BackgroundThumbnail/cf4604860c0041c476e605e2b775527d17bd697e"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "86a72cba7888e228661dcf9c4c28c61e5890d249",
+				"url": "/sonolus/repository/BackgroundImage/86a72cba7888e228661dcf9c4c28c61e5890d249"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01007",
+			"version": 2,
+			"title": {
+				"en": "Director's Cut default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tDirector's Cut\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "b01230a8602faa3ffae8feb7f1e569f27af86e3f",
+				"url": "/sonolus/repository/BackgroundThumbnail/b01230a8602faa3ffae8feb7f1e569f27af86e3f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "8094152e270bccbd0f9d24b392b2f29da4cd669a",
+				"url": "/sonolus/repository/BackgroundImage/8094152e270bccbd0f9d24b392b2f29da4cd669a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01008",
+			"version": 2,
+			"title": {
+				"en": "You Make My Day default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tYou Make My Day\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d22b24c0db6d759e0ed6956aa7994bd010603bc1",
+				"url": "/sonolus/repository/BackgroundThumbnail/d22b24c0db6d759e0ed6956aa7994bd010603bc1"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "35846e68d22acdd55e76ef232d55bf9d6f0133ad",
+				"url": "/sonolus/repository/BackgroundImage/35846e68d22acdd55e76ef232d55bf9d6f0133ad"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01009",
+			"version": 2,
+			"title": {
+				"en": "You Made My Dawn default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tYou Made My Dawn\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "50d869821ff88a9c14a8d909cc1e6457e4b71e9c",
+				"url": "/sonolus/repository/BackgroundThumbnail/50d869821ff88a9c14a8d909cc1e6457e4b71e9c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f926c1aeacff11f1907c03c2a3d6ab76433d9c96",
+				"url": "/sonolus/repository/BackgroundImage/f926c1aeacff11f1907c03c2a3d6ab76433d9c96"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01011",
+			"version": 2,
+			"title": {
+				"en": "Al1 default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAl1\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "0631d2c305259522d10d0186ce824b1dad36da97",
+				"url": "/sonolus/repository/BackgroundThumbnail/0631d2c305259522d10d0186ce824b1dad36da97"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "43092e7fc6167dfa22af99752750af58f69e55eb",
+				"url": "/sonolus/repository/BackgroundImage/43092e7fc6167dfa22af99752750af58f69e55eb"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01019",
+			"version": 2,
+			"title": {
+				"en": "Hit default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tHit\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "0734e648bcc1de34ef0ef772991cb94fe457481a",
+				"url": "/sonolus/repository/BackgroundThumbnail/0734e648bcc1de34ef0ef772991cb94fe457481a"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "22514b9aa6d0210f2c6190215255326a2163be04",
+				"url": "/sonolus/repository/BackgroundImage/22514b9aa6d0210f2c6190215255326a2163be04"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01021",
+			"version": 2,
+			"title": {
+				"en": "An Ode default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAn Ode\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "c34757be723b15b6db20c0a25eff4d549079e9af",
+				"url": "/sonolus/repository/BackgroundThumbnail/c34757be723b15b6db20c0a25eff4d549079e9af"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "c2a5aaeaed6e048b926349d849bdaa6856c20b1a",
+				"url": "/sonolus/repository/BackgroundImage/c2a5aaeaed6e048b926349d849bdaa6856c20b1a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01027",
+			"version": 2,
+			"title": {
+				"en": "We Make You default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tWe Make You\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ced00a56de456d296198355e706280238c57cb3b",
+				"url": "/sonolus/repository/BackgroundThumbnail/ced00a56de456d296198355e706280238c57cb3b"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "b3a2599351da855d2a43a45caee95ce3495909db",
+				"url": "/sonolus/repository/BackgroundImage/b3a2599351da855d2a43a45caee95ce3495909db"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01034",
+			"version": 2,
+			"title": {
+				"en": "Heng:garæ default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tHeng:garæ\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "017cb051d3557d2a9ba094c34870c512d560159d",
+				"url": "/sonolus/repository/BackgroundThumbnail/017cb051d3557d2a9ba094c34870c512d560159d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "26295f1809d954c4262715917a18da14c1673e7b",
+				"url": "/sonolus/repository/BackgroundImage/26295f1809d954c4262715917a18da14c1673e7b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-01045",
+			"version": 2,
+			"title": {
+				"en": "Semicolon default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tSemicolon\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5070ebeb063f4f6cf82867cff49cc1f0d3e624ad",
+				"url": "/sonolus/repository/BackgroundThumbnail/5070ebeb063f4f6cf82867cff49cc1f0d3e624ad"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "334f9c2990736076d047f02dbfe612db449bdc74",
+				"url": "/sonolus/repository/BackgroundImage/334f9c2990736076d047f02dbfe612db449bdc74"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-06001",
+			"version": 2,
+			"title": {
+				"en": "Just Do It default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tJust Do It\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ea377a065eb94d610b74ee56d826123f3377bb35",
+				"url": "/sonolus/repository/BackgroundThumbnail/ea377a065eb94d610b74ee56d826123f3377bb35"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "21beb2ef458ed9d3cfb9145e79074279172e2177",
+				"url": "/sonolus/repository/BackgroundImage/21beb2ef458ed9d3cfb9145e79074279172e2177"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07001",
+			"version": 2,
+			"title": {
+				"en": "Going Seventeen [Hiphop] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tGoing Seventeen\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "fa45a5148cc81ff5dbdc86cad29768a8b419b0ad",
+				"url": "/sonolus/repository/BackgroundThumbnail/fa45a5148cc81ff5dbdc86cad29768a8b419b0ad"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "69624bae6bd71e64bd66c350eb458d692b598492",
+				"url": "/sonolus/repository/BackgroundImage/69624bae6bd71e64bd66c350eb458d692b598492"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07002",
+			"version": 2,
+			"title": {
+				"en": "You Made My Dawn [Hiphop] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tYou Made My Dawn\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5240f86f5f8a424aacd296853b5a61cf1256e4cc",
+				"url": "/sonolus/repository/BackgroundThumbnail/5240f86f5f8a424aacd296853b5a61cf1256e4cc"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6376450bdc6400165858ef2032da8a3e0d6f6c82",
+				"url": "/sonolus/repository/BackgroundImage/6376450bdc6400165858ef2032da8a3e0d6f6c82"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07003",
+			"version": 2,
+			"title": {
+				"en": "An Ode [Hiphop] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAn Ode\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "00bb96d2d046245f381eefe7ba91701a2debfa45",
+				"url": "/sonolus/repository/BackgroundThumbnail/00bb96d2d046245f381eefe7ba91701a2debfa45"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "0ac3257bfe0a6c203935bc9988c20a821b4f9676",
+				"url": "/sonolus/repository/BackgroundImage/0ac3257bfe0a6c203935bc9988c20a821b4f9676"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-08001",
+			"version": 2,
+			"title": {
+				"en": "Teen, Age [Vocal] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tTeen, Age\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "d1d9b850201d3b7bdaafa1a4c53425eb60393a33",
+				"url": "/sonolus/repository/BackgroundThumbnail/d1d9b850201d3b7bdaafa1a4c53425eb60393a33"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "28f5d52fc55de5ada3ee4fb79e51667326f80528",
+				"url": "/sonolus/repository/BackgroundImage/28f5d52fc55de5ada3ee4fb79e51667326f80528"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-08003",
+			"version": 2,
+			"title": {
+				"en": "An Ode [Vocal] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAn Ode\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6db53a13ae436e374441197c18429d71b0022484",
+				"url": "/sonolus/repository/BackgroundThumbnail/6db53a13ae436e374441197c18429d71b0022484"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "cb7745b13419ca136210716efe9713a15924bad5",
+				"url": "/sonolus/repository/BackgroundImage/cb7745b13419ca136210716efe9713a15924bad5"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-08004",
+			"version": 2,
+			"title": {
+				"en": "Going Seventeen [Vocal] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tGoing Seventeen\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "661cb684731e608a078fe052821431acc5e30b8a",
+				"url": "/sonolus/repository/BackgroundThumbnail/661cb684731e608a078fe052821431acc5e30b8a"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3d1bc33043ea88293c7b33fb6305f9ba8f64eeb4",
+				"url": "/sonolus/repository/BackgroundImage/3d1bc33043ea88293c7b33fb6305f9ba8f64eeb4"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-09001",
+			"version": 2,
+			"title": {
+				"en": "Going Seventeen [Performance] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tGoing Seventeen\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "74add54364f3408668a44083a1ddce0324ad1d59",
+				"url": "/sonolus/repository/BackgroundThumbnail/74add54364f3408668a44083a1ddce0324ad1d59"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "4aa2c7c8f58ec74368a72c0659734ea27e5891a7",
+				"url": "/sonolus/repository/BackgroundImage/4aa2c7c8f58ec74368a72c0659734ea27e5891a7"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-09003",
+			"version": 2,
+			"title": {
+				"en": "An Ode [Performance] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAn Ode\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "f563eff5a125a0fcd5b0ad0ae050ed8aa2f90164",
+				"url": "/sonolus/repository/BackgroundThumbnail/f563eff5a125a0fcd5b0ad0ae050ed8aa2f90164"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "c3ef5a7c1eaa787d70e5c8422468b44b9c94170b",
+				"url": "/sonolus/repository/BackgroundImage/c3ef5a7c1eaa787d70e5c8422468b44b9c94170b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-09004",
+			"version": 2,
+			"title": {
+				"en": "Teen, Age [Performance] default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tTeen, Age\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ce48f064f4f795a6e04fae8eac399b8a0c134dd8",
+				"url": "/sonolus/repository/BackgroundThumbnail/ce48f064f4f795a6e04fae8eac399b8a0c134dd8"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "81c268aa7e8318bc161551f425614b7bbef7390b",
+				"url": "/sonolus/repository/BackgroundImage/81c268aa7e8318bc161551f425614b7bbef7390b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

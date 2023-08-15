@@ -1,0 +1,587 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Pristin)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-03001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Be the Star"
+			},
+			"artists": {
+				"en": "PRISTIN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tPRISTIN\nAlbum:\t\tHi! Pristin\nTitle:\t\t\tBe the Star\nDuration:\t1:25.53\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t466\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c8ae73842460df130b9cb27fa8d47f8543e81c48",
+				"url": "/sonolus/repository/LevelCover/c8ae73842460df130b9cb27fa8d47f8543e81c48"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7e95762a713e8545f1e5c150a6718d8ba880e11c",
+				"url": "/sonolus/repository/LevelBgm/7e95762a713e8545f1e5c150a6718d8ba880e11c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "89788ce069ea460515a7e3dde3db27e9dbd9c04c",
+				"url": "/sonolus/repository/LevelPreview/89788ce069ea460515a7e3dde3db27e9dbd9c04c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "56b9fb8c9861e02d5eac241a57d1fb7b5edd22f7",
+				"url": "/sonolus/repository/LevelData/56b9fb8c9861e02d5eac241a57d1fb7b5edd22f7"
+			}
+		},
+		{
+			"name": "ssp-hard-03002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "WEE WOO"
+			},
+			"artists": {
+				"en": "PRISTIN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tPRISTIN\nAlbum:\t\tHi! Pristin\nTitle:\t\t\tWEE WOO\nDuration:\t1:31.39\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t604\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c8ae73842460df130b9cb27fa8d47f8543e81c48",
+				"url": "/sonolus/repository/LevelCover/c8ae73842460df130b9cb27fa8d47f8543e81c48"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ee3be904b6ea7e0ae6863325d4701fb967ad8e21",
+				"url": "/sonolus/repository/LevelBgm/ee3be904b6ea7e0ae6863325d4701fb967ad8e21"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5183444c47a18d5d0b73cf7ed6cebf50defd8d3f",
+				"url": "/sonolus/repository/LevelPreview/5183444c47a18d5d0b73cf7ed6cebf50defd8d3f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3028b6727cd1b646ddd654a43b69ca86cd019a74",
+				"url": "/sonolus/repository/LevelData/3028b6727cd1b646ddd654a43b69ca86cd019a74"
+			}
+		},
+		{
+			"name": "ssp-hard-03003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ALOHA"
+			},
+			"artists": {
+				"en": "PRISTIN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tPRISTIN\nAlbum:\t\tSchxxl Out\nTitle:\t\t\tALOHA\nDuration:\t1:10.37\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t391\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "55214a10db271b541ee3415cd8d01de2fa0ba3d8",
+				"url": "/sonolus/repository/LevelCover/55214a10db271b541ee3415cd8d01de2fa0ba3d8"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a7a9e6dac8ec0e81561fabb6ba313e01fd298d82",
+				"url": "/sonolus/repository/LevelBgm/a7a9e6dac8ec0e81561fabb6ba313e01fd298d82"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "22c3e276fa886f357b7047a150dad7b571df5668",
+				"url": "/sonolus/repository/LevelPreview/22c3e276fa886f357b7047a150dad7b571df5668"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a484148893d0de35256d89671acb7a793f66d656",
+				"url": "/sonolus/repository/LevelData/a484148893d0de35256d89671acb7a793f66d656"
+			}
+		},
+		{
+			"name": "ssp-hard-03004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "WE"
+			},
+			"artists": {
+				"en": "PRISTIN"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tPRISTIN\nAlbum:\t\tWe\nTitle:\t\t\tWE\nDuration:\t1:59.32\nBPM:\t\t105.6\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t815\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "805437d8dfac8c75ba06ca61d42e07852c5c28de",
+				"url": "/sonolus/repository/LevelCover/805437d8dfac8c75ba06ca61d42e07852c5c28de"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "555cbadd1b9506d61b27de0d993f532d2826988e",
+				"url": "/sonolus/repository/LevelBgm/555cbadd1b9506d61b27de0d993f532d2826988e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d9b9297761e598f8619659c0c598ac8590042a0f",
+				"url": "/sonolus/repository/LevelPreview/d9b9297761e598f8619659c0c598ac8590042a0f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2e2814dd7a08757cd5b3d8a06c59bcba6084138a",
+				"url": "/sonolus/repository/LevelData/2e2814dd7a08757cd5b3d8a06c59bcba6084138a"
+			}
+		},
+		{
+			"name": "ssp-hard-03101",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "네 멋대로 (Get It)"
+			},
+			"artists": {
+				"en": "PRISTIN V"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tPRISTIN V\nAlbum:\t\tLike a V\nTitle:\t\t\t네 멋대로 (Get It)\nDuration:\t1:29.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t521\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03101"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "1750be05afd07599c12c6dae7abca96617fff2a8",
+				"url": "/sonolus/repository/LevelCover/1750be05afd07599c12c6dae7abca96617fff2a8"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d4e189a5adb509a48f7044f6274aba8a6b2b1ff9",
+				"url": "/sonolus/repository/LevelBgm/d4e189a5adb509a48f7044f6274aba8a6b2b1ff9"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "03f2e48097843743c0cece2257abf8ac9f00f3a4",
+				"url": "/sonolus/repository/LevelPreview/03f2e48097843743c0cece2257abf8ac9f00f3a4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "957efe1eb3047386527e56f2be914a6754dd55c7",
+				"url": "/sonolus/repository/LevelData/957efe1eb3047386527e56f2be914a6754dd55c7"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-03001",
+			"version": 2,
+			"title": {
+				"en": "Hi! Pristin default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tHi! Pristin\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "37221369836eb30ef9a8bd2d3e004cc6e8f75efd",
+				"url": "/sonolus/repository/BackgroundThumbnail/37221369836eb30ef9a8bd2d3e004cc6e8f75efd"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a69e86049382de0642e46112567f27ba79dbccf2",
+				"url": "/sonolus/repository/BackgroundImage/a69e86049382de0642e46112567f27ba79dbccf2"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03003",
+			"version": 2,
+			"title": {
+				"en": "Schxxl Out default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tSchxxl Out\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "79bdec4ee56e2153079b417b259599b76c437fd6",
+				"url": "/sonolus/repository/BackgroundThumbnail/79bdec4ee56e2153079b417b259599b76c437fd6"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "4a47052fde94b20c8eab2ea30c7191a13c845339",
+				"url": "/sonolus/repository/BackgroundImage/4a47052fde94b20c8eab2ea30c7191a13c845339"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03004",
+			"version": 2,
+			"title": {
+				"en": "We default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tWe\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "14fd18ca6c996bc7c0e635654510b3b4b6027b04",
+				"url": "/sonolus/repository/BackgroundThumbnail/14fd18ca6c996bc7c0e635654510b3b4b6027b04"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6c6362c48e23417c6f1e51f0744d7e3d61c8b6f6",
+				"url": "/sonolus/repository/BackgroundImage/6c6362c48e23417c6f1e51f0744d7e3d61c8b6f6"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03101",
+			"version": 2,
+			"title": {
+				"en": "Like a V default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLike a V\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "228169cc51ed095a02dcd7c25d32b5165e60504a",
+				"url": "/sonolus/repository/BackgroundThumbnail/228169cc51ed095a02dcd7c25d32b5165e60504a"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f55c58c705dd60dd89c3962d71cd6d176356e1c4",
+				"url": "/sonolus/repository/BackgroundImage/f55c58c705dd60dd89c3962d71cd6d176356e1c4"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

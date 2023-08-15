@@ -1,0 +1,3227 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Nu'est)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-02001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "FACE"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tFace\nTitle:\t\t\tFACE\nDuration:\t1:06.29\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t392\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ff25e162c1a5e69553b78218354db588f9c8cfad",
+				"url": "/sonolus/repository/LevelCover/ff25e162c1a5e69553b78218354db588f9c8cfad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d97eb59022c346e06292ea4a6e518e87a9b8c836",
+				"url": "/sonolus/repository/LevelBgm/d97eb59022c346e06292ea4a6e518e87a9b8c836"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "932be2940dbcaa4c81ec54480582c033b80ca458",
+				"url": "/sonolus/repository/LevelPreview/932be2940dbcaa4c81ec54480582c033b80ca458"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "fc3d662c691586ad2ce637e9aa9e843cbdb4c2e7",
+				"url": "/sonolus/repository/LevelData/fc3d662c691586ad2ce637e9aa9e843cbdb4c2e7"
+			}
+		},
+		{
+			"name": "ssp-hard-02002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Not Over You"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tAction\nTitle:\t\t\tNot Over You\nDuration:\t1:40.93\nBPM:\t\t129\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t554\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "eeb048527df717e627e8053a8ab8ed4ac87cc93b",
+				"url": "/sonolus/repository/LevelCover/eeb048527df717e627e8053a8ab8ed4ac87cc93b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b55ac82eded25b8ec6ec02bee61cce0f33645592",
+				"url": "/sonolus/repository/LevelBgm/b55ac82eded25b8ec6ec02bee61cce0f33645592"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "993054e5f2c87471f1c251abbd2441279d14618a",
+				"url": "/sonolus/repository/LevelPreview/993054e5f2c87471f1c251abbd2441279d14618a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c93c28fe7f904af35cfd9e45e73d36bbc41bac20",
+				"url": "/sonolus/repository/LevelData/c93c28fe7f904af35cfd9e45e73d36bbc41bac20"
+			}
+		},
+		{
+			"name": "ssp-hard-02003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "여보세요 (Hello)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHello\nTitle:\t\t\t여보세요 (Hello)\nDuration:\t1:37.50\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t499\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f197b83a4ab831ea0b1626ea11edca14c7e81802",
+				"url": "/sonolus/repository/LevelCover/f197b83a4ab831ea0b1626ea11edca14c7e81802"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f1ca31e347cd4024f3def9b9908a4e96361278de",
+				"url": "/sonolus/repository/LevelBgm/f1ca31e347cd4024f3def9b9908a4e96361278de"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f7764c6f05bedcc782444b6780e5202827200a0a",
+				"url": "/sonolus/repository/LevelPreview/f7764c6f05bedcc782444b6780e5202827200a0a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "745fe61d00e13a8d37d37e1e3f50266aef992e21",
+				"url": "/sonolus/repository/LevelData/745fe61d00e13a8d37d37e1e3f50266aef992e21"
+			}
+		},
+		{
+			"name": "ssp-hard-02004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너네 누나 소개시켜줘 (The Girl Next Door)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHello\nTitle:\t\t\t너네 누나 소개시켜줘 (The Girl Next Door)\nDuration:\t1:49.41\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t531\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f197b83a4ab831ea0b1626ea11edca14c7e81802",
+				"url": "/sonolus/repository/LevelCover/f197b83a4ab831ea0b1626ea11edca14c7e81802"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3c722463ac7912396f22f416267f288383670d7f",
+				"url": "/sonolus/repository/LevelBgm/3c722463ac7912396f22f416267f288383670d7f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b848dfe3ff495778d51e79b4df32bf7521136a7d",
+				"url": "/sonolus/repository/LevelPreview/b848dfe3ff495778d51e79b4df32bf7521136a7d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "57ca308acb55f930a270ae01e26f5ebdec5ab296",
+				"url": "/sonolus/repository/LevelData/57ca308acb55f930a270ae01e26f5ebdec5ab296"
+			}
+		},
+		{
+			"name": "ssp-hard-02005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "예뻐 (Pretty) (Feat. 유아라 of 헬로비너스)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tSleep Talking\nTitle:\t\t\t예뻐 (Pretty) (Feat. 유아라 of 헬로비너스)\nDuration:\t1:18.24\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t427\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "269dba3fa83a61458a5799121afe9fd0be7f2831",
+				"url": "/sonolus/repository/LevelCover/269dba3fa83a61458a5799121afe9fd0be7f2831"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1182ec02c6a0dec0f95241a3d65aac59b82565a5",
+				"url": "/sonolus/repository/LevelBgm/1182ec02c6a0dec0f95241a3d65aac59b82565a5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6f3b9c80c3caba9c57314d1a48ef04f3d258db23",
+				"url": "/sonolus/repository/LevelPreview/6f3b9c80c3caba9c57314d1a48ef04f3d258db23"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "17e98334d675969c1e2cf3c00cf1d767cf85fc6b",
+				"url": "/sonolus/repository/LevelData/17e98334d675969c1e2cf3c00cf1d767cf85fc6b"
+			}
+		},
+		{
+			"name": "ssp-hard-02006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "어깨빌려줘 (Give Me A Shoulder) (Feat. 계범주)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tRe:Birth\nTitle:\t\t\t어깨빌려줘 (Give Me A Shoulder) (Feat. 계범주)\nDuration:\t1:45.32\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t530\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "74b72f5e7d1a0039265a32a0a78d8baec7ee11ec",
+				"url": "/sonolus/repository/LevelCover/74b72f5e7d1a0039265a32a0a78d8baec7ee11ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d7c6a9b254a48c451511865dfe71838988ce892f",
+				"url": "/sonolus/repository/LevelBgm/d7c6a9b254a48c451511865dfe71838988ce892f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f30ea8e2278f710c7f81cea065c6ea738a1cc63e",
+				"url": "/sonolus/repository/LevelPreview/f30ea8e2278f710c7f81cea065c6ea738a1cc63e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "842f0ae8873c17b904f26e00647b158a928468e7",
+				"url": "/sonolus/repository/LevelData/842f0ae8873c17b904f26e00647b158a928468e7"
+			}
+		},
+		{
+			"name": "ssp-hard-02007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "나의 천국 (My Heaven / Lost & Found)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tQ Is\nTitle:\t\t\t나의 천국 (My Heaven / Lost & Found)\nDuration:\t1:31.39\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t646\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "29d8b620b8c6c9af841e7d1233c17c91f0b52b05",
+				"url": "/sonolus/repository/LevelCover/29d8b620b8c6c9af841e7d1233c17c91f0b52b05"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4483ff36e382e00699edef9285fee32ce72040c1",
+				"url": "/sonolus/repository/LevelBgm/4483ff36e382e00699edef9285fee32ce72040c1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2a7a5cae74682fbde3bd13378707ce72ef1143e2",
+				"url": "/sonolus/repository/LevelPreview/2a7a5cae74682fbde3bd13378707ce72ef1143e2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "66baad84c8230b1f37e7bebc24a0ef00c4e0d817",
+				"url": "/sonolus/repository/LevelData/66baad84c8230b1f37e7bebc24a0ef00c4e0d817"
+			}
+		},
+		{
+			"name": "ssp-hard-02008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love Paint (every afternoon)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tCanvas\nTitle:\t\t\tLove Paint (every afternoon)\nDuration:\t1:15.51\nBPM:\t\t147\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t402\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "dd60181f69b7ed959da9b30083279a41bf09a391",
+				"url": "/sonolus/repository/LevelCover/dd60181f69b7ed959da9b30083279a41bf09a391"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9ad7f067e676073e56eff7f519c91c29934b091b",
+				"url": "/sonolus/repository/LevelBgm/9ad7f067e676073e56eff7f519c91c29934b091b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2223670cee45e66cd2717c138616775510501993",
+				"url": "/sonolus/repository/LevelPreview/2223670cee45e66cd2717c138616775510501993"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "14cf0898dd6c53cc0ccc92b41ec4ba88ea3aa2f4",
+				"url": "/sonolus/repository/LevelData/14cf0898dd6c53cc0ccc92b41ec4ba88ea3aa2f4"
+			}
+		},
+		{
+			"name": "ssp-hard-02009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "노래 제목 (A Song For You)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\t노래 제목 (A Song For You)\nTitle:\t\t\t노래 제목 (A Song For You)\nDuration:\t1:34.72\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t486\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "92235e04e7228d79ed0a7d99f5079e1f2fba80cb",
+				"url": "/sonolus/repository/LevelCover/92235e04e7228d79ed0a7d99f5079e1f2fba80cb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "dc7d4062366c0a375faafbdad802a895cdab8aae",
+				"url": "/sonolus/repository/LevelBgm/dc7d4062366c0a375faafbdad802a895cdab8aae"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d819c8a679a430e9b1cf893985c9b6824264c949",
+				"url": "/sonolus/repository/LevelPreview/d819c8a679a430e9b1cf893985c9b6824264c949"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "70e4158079df7cf0f6c96ba0050716debf1fe832",
+				"url": "/sonolus/repository/LevelData/70e4158079df7cf0f6c96ba0050716debf1fe832"
+			}
+		},
+		{
+			"name": "ssp-hard-02010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Daybreak (Minhyun&JR)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tCanvas\nTitle:\t\t\tDaybreak (Minhyun&JR)\nDuration:\t2:01.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t708\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "dd60181f69b7ed959da9b30083279a41bf09a391",
+				"url": "/sonolus/repository/LevelCover/dd60181f69b7ed959da9b30083279a41bf09a391"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1077fe0ad5102b883f73d0121b37e5210fffa1b6",
+				"url": "/sonolus/repository/LevelBgm/1077fe0ad5102b883f73d0121b37e5210fffa1b6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "54d7bdcab8db2af667c0464e2e41bbcaaf800729",
+				"url": "/sonolus/repository/LevelPreview/54d7bdcab8db2af667c0464e2e41bbcaaf800729"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4cc6e584919b526be2b536bc0708062229d60ddb",
+				"url": "/sonolus/repository/LevelData/4cc6e584919b526be2b536bc0708062229d60ddb"
+			}
+		},
+		{
+			"name": "ssp-hard-02011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "BET BET"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tBET BET\nDuration:\t1:33.29\nBPM:\t\t137\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t578\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ea2969a6fbbfbfc1224764288ef085a245c0eba0",
+				"url": "/sonolus/repository/LevelBgm/ea2969a6fbbfbfc1224764288ef085a245c0eba0"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4c4d87ab1f5ba0ee863859ecb7c5c92b2073fdba",
+				"url": "/sonolus/repository/LevelPreview/4c4d87ab1f5ba0ee863859ecb7c5c92b2073fdba"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8e8a8924ec3a4c2a8ddb2ae4891810d965e91681",
+				"url": "/sonolus/repository/LevelData/8e8a8924ec3a4c2a8ddb2ae4891810d965e91681"
+			}
+		},
+		{
+			"name": "ssp-hard-02012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Segno"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tSegno\nDuration:\t1:30.00\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t504\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b3a9d6be5024f04f61111cb7dc15001d9adee9be",
+				"url": "/sonolus/repository/LevelBgm/b3a9d6be5024f04f61111cb7dc15001d9adee9be"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6c017b017bf18c8fe59b8facda3d39fe5ed2d78f",
+				"url": "/sonolus/repository/LevelPreview/6c017b017bf18c8fe59b8facda3d39fe5ed2d78f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "410e90c9b0914a9a532631a83bbce69478080a8f",
+				"url": "/sonolus/repository/LevelData/410e90c9b0914a9a532631a83bbce69478080a8f"
+			}
+		},
+		{
+			"name": "ssp-hard-02013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Talk about love"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tTalk about love\nDuration:\t1:33.53\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t569\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cbd6771b74501027e1317be9a36320df7ef70fcd",
+				"url": "/sonolus/repository/LevelBgm/cbd6771b74501027e1317be9a36320df7ef70fcd"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4bcaa48c15ccad10fb0680ae9dc5900521a2cf64",
+				"url": "/sonolus/repository/LevelPreview/4bcaa48c15ccad10fb0680ae9dc5900521a2cf64"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "96d7c4d8643013801962fa984941eed54f3bb95f",
+				"url": "/sonolus/repository/LevelData/96d7c4d8643013801962fa984941eed54f3bb95f"
+			}
+		},
+		{
+			"name": "ssp-hard-02014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "여왕의 기사 (Overcome)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tQ Is\nTitle:\t\t\t여왕의 기사 (Overcome)\nDuration:\t1:12.61\nBPM:\t\t138\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t388\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "29d8b620b8c6c9af841e7d1233c17c91f0b52b05",
+				"url": "/sonolus/repository/LevelCover/29d8b620b8c6c9af841e7d1233c17c91f0b52b05"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c341ae24e8cdf4d05daa3c2003379f5f108529ea",
+				"url": "/sonolus/repository/LevelBgm/c341ae24e8cdf4d05daa3c2003379f5f108529ea"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "16e32d3d8378009e9a55746a200a0042fea966ae",
+				"url": "/sonolus/repository/LevelPreview/16e32d3d8378009e9a55746a200a0042fea966ae"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "37506b26218b9bd7162a4688c2137f6398bb5c54",
+				"url": "/sonolus/repository/LevelData/37506b26218b9bd7162a4688c2137f6398bb5c54"
+			}
+		},
+		{
+			"name": "ssp-hard-02015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Different"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tDifferent\nDuration:\t1:20.35\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t536\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "50b5e66b18069898d18e80ce5f950e6cf5f906f1",
+				"url": "/sonolus/repository/LevelBgm/50b5e66b18069898d18e80ce5f950e6cf5f906f1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d4b9a796e6e74cb0d20b08167ce427526fb26577",
+				"url": "/sonolus/repository/LevelPreview/d4b9a796e6e74cb0d20b08167ce427526fb26577"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9ce960db8fcf0cb6b1a4d66e048faf7be74a92e4",
+				"url": "/sonolus/repository/LevelData/9ce960db8fcf0cb6b1a4d66e048faf7be74a92e4"
+			}
+		},
+		{
+			"name": "ssp-hard-02016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Fine"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tFine\nDuration:\t1:57.38\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t699\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "da2d43fe755475daa39beb3cbee2bd2b08945f7c",
+				"url": "/sonolus/repository/LevelBgm/da2d43fe755475daa39beb3cbee2bd2b08945f7c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "631d204820997de4d72a7960d588ac583b806eab",
+				"url": "/sonolus/repository/LevelPreview/631d204820997de4d72a7960d588ac583b806eab"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f795f789df5268f171af270e1ae0910ede3aaa46",
+				"url": "/sonolus/repository/LevelData/f795f789df5268f171af270e1ae0910ede3aaa46"
+			}
+		},
+		{
+			"name": "ssp-hard-02017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "BASS"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tBASS\nDuration:\t1:42.48\nBPM:\t\t113\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t590\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "30b479e47b91fe5ea8ddb457098022c9af681a8e",
+				"url": "/sonolus/repository/LevelBgm/30b479e47b91fe5ea8ddb457098022c9af681a8e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "38b349881b00850bba74a2f7324e3b4a6084d63c",
+				"url": "/sonolus/repository/LevelPreview/38b349881b00850bba74a2f7324e3b4a6084d63c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "607862f248927f8bf60e84ed8ef76aa2fa213ec1",
+				"url": "/sonolus/repository/LevelData/607862f248927f8bf60e84ed8ef76aa2fa213ec1"
+			}
+		},
+		{
+			"name": "ssp-hard-02018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "LOVE ME"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\tLOVE ME\nDuration:\t1:23.71\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t564\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a3ae954851016519990d23e0c51a98509fe04be6",
+				"url": "/sonolus/repository/LevelBgm/a3ae954851016519990d23e0c51a98509fe04be6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4ee1a32bb5ca1d213dd134d20ec9148b79313fa8",
+				"url": "/sonolus/repository/LevelPreview/4ee1a32bb5ca1d213dd134d20ec9148b79313fa8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7055ffbd82852b17d65345847ae271178e8c1efc",
+				"url": "/sonolus/repository/LevelData/7055ffbd82852b17d65345847ae271178e8c1efc"
+			}
+		},
+		{
+			"name": "ssp-hard-02019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "우리가 사랑했다면 (If We)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\t우리가 사랑했다면 (If We)\nDuration:\t1:40.26\nBPM:\t\t152\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t507\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "600e9dfdd3ab185b9bf9cab80b6d79fa1e6e0d54",
+				"url": "/sonolus/repository/LevelBgm/600e9dfdd3ab185b9bf9cab80b6d79fa1e6e0d54"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f55b7a630ff63581e62d02911adcef6983ddac97",
+				"url": "/sonolus/repository/LevelPreview/f55b7a630ff63581e62d02911adcef6983ddac97"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "da8f4f1efcfac2cfc274243500c3439be6aad17a",
+				"url": "/sonolus/repository/LevelData/da8f4f1efcfac2cfc274243500c3439be6aad17a"
+			}
+		},
+		{
+			"name": "ssp-hard-02020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "밤새 (Stay Up All Night)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\t밤새 (Stay Up All Night)\nDuration:\t1:46.91\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t551\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "46b2583aa558e527ac60457130426570e8baae97",
+				"url": "/sonolus/repository/LevelBgm/46b2583aa558e527ac60457130426570e8baae97"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "498b4bad67986c1d49e44372ef8526005d9f87b0",
+				"url": "/sonolus/repository/LevelPreview/498b4bad67986c1d49e44372ef8526005d9f87b0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b44d729e00d12d2932ff2aad2e5516b146875bfd",
+				"url": "/sonolus/repository/LevelData/b44d729e00d12d2932ff2aad2e5516b146875bfd"
+			}
+		},
+		{
+			"name": "ssp-hard-02021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "우리가 사랑했다면 (If We) [Verse 2]"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\t우리가 사랑했다면 (If We) [Verse 2]\nDuration:\t1:40.26\nBPM:\t\t152\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t541\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4125a9a9c09fa69069045fcfe785d3b660b5f4dc",
+				"url": "/sonolus/repository/LevelBgm/4125a9a9c09fa69069045fcfe785d3b660b5f4dc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8db1305627a9809044f920468f56966a09bad8a6",
+				"url": "/sonolus/repository/LevelPreview/8db1305627a9809044f920468f56966a09bad8a6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d854bd7f4a5261b591f5880bea21f83aaa9ca8c5",
+				"url": "/sonolus/repository/LevelData/d854bd7f4a5261b591f5880bea21f83aaa9ca8c5"
+			}
+		},
+		{
+			"name": "ssp-hard-02022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Climax"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tRe:Birth\nTitle:\t\t\tClimax\nDuration:\t1:26.51\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t414\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "74b72f5e7d1a0039265a32a0a78d8baec7ee11ec",
+				"url": "/sonolus/repository/LevelCover/74b72f5e7d1a0039265a32a0a78d8baec7ee11ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4659c49eea5678616ae14c0db3f6bfcb04001c66",
+				"url": "/sonolus/repository/LevelBgm/4659c49eea5678616ae14c0db3f6bfcb04001c66"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2efe7d5ba112ff4199d387450c2525c49e0e7fc5",
+				"url": "/sonolus/repository/LevelPreview/2efe7d5ba112ff4199d387450c2525c49e0e7fc5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "baf394e36afb97625834f4e2007d4ae8bf44657c",
+				"url": "/sonolus/repository/LevelData/baf394e36afb97625834f4e2007d4ae8bf44657c"
+			}
+		},
+		{
+			"name": "ssp-hard-02023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "LOVE ME [Verse2]"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\tLOVE ME [Verse2]\nDuration:\t1:54.20\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t782\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "deae2d0a15be785c5497557e62fd2659495dad31",
+				"url": "/sonolus/repository/LevelBgm/deae2d0a15be785c5497557e62fd2659495dad31"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "03a6f263546ecfda5fd2db2206fd827057bc62b9",
+				"url": "/sonolus/repository/LevelPreview/03a6f263546ecfda5fd2db2206fd827057bc62b9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7101ba8e4ed2e58f000f4400903709544913bd24",
+				"url": "/sonolus/repository/LevelData/7101ba8e4ed2e58f000f4400903709544913bd24"
+			}
+		},
+		{
+			"name": "ssp-hard-02024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ONE TWO THREE"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\tONE TWO THREE\nDuration:\t1:39.43\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t560\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "934c4ce3efea7557b68df29f1351b04037abd818",
+				"url": "/sonolus/repository/LevelBgm/934c4ce3efea7557b68df29f1351b04037abd818"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c96bdb821d34cf3a5d769e24a5963781d87b9b89",
+				"url": "/sonolus/repository/LevelPreview/c96bdb821d34cf3a5d769e24a5963781d87b9b89"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "904b9ea0c8f2f51ccdae9c4078d1a4025e1e0903",
+				"url": "/sonolus/repository/LevelData/904b9ea0c8f2f51ccdae9c4078d1a4025e1e0903"
+			}
+		},
+		{
+			"name": "ssp-hard-02025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Storybook"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tRe:Birth\nTitle:\t\t\tStorybook\nDuration:\t1:52.24\nBPM:\t\t116\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t617\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "74b72f5e7d1a0039265a32a0a78d8baec7ee11ec",
+				"url": "/sonolus/repository/LevelCover/74b72f5e7d1a0039265a32a0a78d8baec7ee11ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "48e69fdafe224f5049e978793465f0d345cd7a36",
+				"url": "/sonolus/repository/LevelBgm/48e69fdafe224f5049e978793465f0d345cd7a36"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d4c52639002516bfe13ec280412244720c944c43",
+				"url": "/sonolus/repository/LevelPreview/d4c52639002516bfe13ec280412244720c944c43"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "f87626fb0d0d7f102f793ffe53947e6b3e8bf4c1",
+				"url": "/sonolus/repository/LevelData/f87626fb0d0d7f102f793ffe53947e6b3e8bf4c1"
+			}
+		},
+		{
+			"name": "ssp-hard-02026",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "잠꼬대 (Sleep Talking)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tSleep Talking\nTitle:\t\t\t잠꼬대 (Sleep Talking)\nDuration:\t1:26.25\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t616\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "269dba3fa83a61458a5799121afe9fd0be7f2831",
+				"url": "/sonolus/repository/LevelCover/269dba3fa83a61458a5799121afe9fd0be7f2831"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "554538e9b760b190edcb130518e04fc30f682d02",
+				"url": "/sonolus/repository/LevelBgm/554538e9b760b190edcb130518e04fc30f682d02"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0aa4bfce73c78b4321ab817bee36224b610ddced",
+				"url": "/sonolus/repository/LevelPreview/0aa4bfce73c78b4321ab817bee36224b610ddced"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dc09a212713bd732d2bad53c4569c326c16179ba",
+				"url": "/sonolus/repository/LevelData/dc09a212713bd732d2bad53c4569c326c16179ba"
+			}
+		},
+		{
+			"name": "ssp-hard-02027",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Call me back"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\tCall me back\nDuration:\t1:22.45\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t453\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "addb40f6d532104d21689dd48f81137828b14f49",
+				"url": "/sonolus/repository/LevelBgm/addb40f6d532104d21689dd48f81137828b14f49"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7d04e285f8d075c56090b3788840517e0c1a6c58",
+				"url": "/sonolus/repository/LevelPreview/7d04e285f8d075c56090b3788840517e0c1a6c58"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "00f139276baca422bebc7ebd92c254741e210a59",
+				"url": "/sonolus/repository/LevelData/00f139276baca422bebc7ebd92c254741e210a59"
+			}
+		},
+		{
+			"name": "ssp-hard-02028",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Look (a starlight night)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tCanvas\nTitle:\t\t\tLook (a starlight night)\nDuration:\t1:43.02\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t440\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "dd60181f69b7ed959da9b30083279a41bf09a391",
+				"url": "/sonolus/repository/LevelCover/dd60181f69b7ed959da9b30083279a41bf09a391"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9d1bdcb01b2eb403f53ba764e6c0113b525ff96c",
+				"url": "/sonolus/repository/LevelBgm/9d1bdcb01b2eb403f53ba764e6c0113b525ff96c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5c9abbb25a2e3585fa4c4e30a7280009187c3014",
+				"url": "/sonolus/repository/LevelPreview/5c9abbb25a2e3585fa4c4e30a7280009187c3014"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "82e7dcd140974384d13a1ca27a238ea3ddaefa1a",
+				"url": "/sonolus/repository/LevelData/82e7dcd140974384d13a1ca27a238ea3ddaefa1a"
+			}
+		},
+		{
+			"name": "ssp-hard-02029",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I’m in Trouble"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\tI’m in Trouble\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t513\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "02a254e58dcf0be490f69b3e86523a9f9f914fa1",
+				"url": "/sonolus/repository/LevelBgm/02a254e58dcf0be490f69b3e86523a9f9f914fa1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2eeaee5bae7892c26d039eeca2667220db206b86",
+				"url": "/sonolus/repository/LevelPreview/2eeaee5bae7892c26d039eeca2667220db206b86"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "65fdeb07aa8bad26cb762ccf2416d2356005d800",
+				"url": "/sonolus/repository/LevelData/65fdeb07aa8bad26cb762ccf2416d2356005d800"
+			}
+		},
+		{
+			"name": "ssp-hard-02030",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Moon Dance"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\tMoon Dance\nDuration:\t1:54.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t527\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b71234cf043a776364894cd71a15fc153128ee0e",
+				"url": "/sonolus/repository/LevelBgm/b71234cf043a776364894cd71a15fc153128ee0e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b564396d29569cb476f60be32c6e95ddd1f7846c",
+				"url": "/sonolus/repository/LevelPreview/b564396d29569cb476f60be32c6e95ddd1f7846c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8fde3db760ba217b49042447d4f5ffecc43e042c",
+				"url": "/sonolus/repository/LevelData/8fde3db760ba217b49042447d4f5ffecc43e042c"
+			}
+		},
+		{
+			"name": "ssp-hard-02031",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Firework"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\tFirework\nDuration:\t1:36.23\nBPM:\t\t106\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t443\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "9f87fa2ce87b5ab641a8110946671025462bed80",
+				"url": "/sonolus/repository/LevelBgm/9f87fa2ce87b5ab641a8110946671025462bed80"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2d3903e882011d2c316b7e0155af89824b47470a",
+				"url": "/sonolus/repository/LevelPreview/2d3903e882011d2c316b7e0155af89824b47470a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1523b03586000562a0ba38ffd8115b5cc77d41a6",
+				"url": "/sonolus/repository/LevelData/1523b03586000562a0ba38ffd8115b5cc77d41a6"
+			}
+		},
+		{
+			"name": "ssp-hard-02032",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Back To Me (평행우주)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\tBack To Me (평행우주)\nDuration:\t1:50.00\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t552\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "bfd82ea8470493137d0098f1f9e6525606aab779",
+				"url": "/sonolus/repository/LevelBgm/bfd82ea8470493137d0098f1f9e6525606aab779"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5508f1c105d30ae13742b6cd506a3f4d2693334b",
+				"url": "/sonolus/repository/LevelPreview/5508f1c105d30ae13742b6cd506a3f4d2693334b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "3d36f007c2450f31ab0db3d1c28d4b0eaeebbedc",
+				"url": "/sonolus/repository/LevelData/3d36f007c2450f31ab0db3d1c28d4b0eaeebbedc"
+			}
+		},
+		{
+			"name": "ssp-hard-02033",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "꼭 (Must)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\t꼭 (Must)\nDuration:\t1:53.54\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t436\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "eb26898838019f4115f96cae36254013d5558509",
+				"url": "/sonolus/repository/LevelBgm/eb26898838019f4115f96cae36254013d5558509"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "af6f881f1ae7bd9f41b24e34c4a610c7565a552a",
+				"url": "/sonolus/repository/LevelPreview/af6f881f1ae7bd9f41b24e34c4a610c7565a552a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bd8e677eaa611cccbda75c18b6870cfaf7be8b01",
+				"url": "/sonolus/repository/LevelData/bd8e677eaa611cccbda75c18b6870cfaf7be8b01"
+			}
+		},
+		{
+			"name": "ssp-hard-02034",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "BET BET [Verse 2]"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tHappily Ever After\nTitle:\t\t\tBET BET [Verse 2]\nDuration:\t1:21.46\nBPM:\t\t137\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t516\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "37a114f269b8a05593e93c659f1ce802dbb2ebce",
+				"url": "/sonolus/repository/LevelCover/37a114f269b8a05593e93c659f1ce802dbb2ebce"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6e475d497d86eef97b56c4a621fecfac528453a6",
+				"url": "/sonolus/repository/LevelBgm/6e475d497d86eef97b56c4a621fecfac528453a6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "440cfbb31d9c070c39d7af32479870fbaf22afd3",
+				"url": "/sonolus/repository/LevelPreview/440cfbb31d9c070c39d7af32479870fbaf22afd3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8e7bab0ceb94cfdc0f7de97df33f69d8828bfd09",
+				"url": "/sonolus/repository/LevelData/8e7bab0ceb94cfdc0f7de97df33f69d8828bfd09"
+			}
+		},
+		{
+			"name": "ssp-hard-02035",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ONEKIS2"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tQ Is\nTitle:\t\t\tONEKIS2\nDuration:\t1:53.73\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t520\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "29d8b620b8c6c9af841e7d1233c17c91f0b52b05",
+				"url": "/sonolus/repository/LevelCover/29d8b620b8c6c9af841e7d1233c17c91f0b52b05"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6db13e8bdd438e74652ae36f98a7da8a1d8d646c",
+				"url": "/sonolus/repository/LevelBgm/6db13e8bdd438e74652ae36f98a7da8a1d8d646c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0fdaa2453691cd581de021bc8f71d27060c5220e",
+				"url": "/sonolus/repository/LevelPreview/0fdaa2453691cd581de021bc8f71d27060c5220e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b1ff00b90e16886a089c50a02de3148f52cf2ab3",
+				"url": "/sonolus/repository/LevelData/b1ff00b90e16886a089c50a02de3148f52cf2ab3"
+			}
+		},
+		{
+			"name": "ssp-hard-02036",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I'm Bad"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tI'm Bad\nTitle:\t\t\tI'm Bad\nDuration:\t1:36.98\nBPM:\t\t172\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t612\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02036"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "d67d41cb1e70f667d1a08beb9b4310d24ec6bb08",
+				"url": "/sonolus/repository/LevelCover/d67d41cb1e70f667d1a08beb9b4310d24ec6bb08"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ec882a87abcbf2ec76301362984fc4ec8fa03564",
+				"url": "/sonolus/repository/LevelBgm/ec882a87abcbf2ec76301362984fc4ec8fa03564"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "703b522c604f021c7cd4ac4bb422e5b6c31384e1",
+				"url": "/sonolus/repository/LevelPreview/703b522c604f021c7cd4ac4bb422e5b6c31384e1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "61a3264c540562f0484f0cb69f8f3c4826ce2689",
+				"url": "/sonolus/repository/LevelData/61a3264c540562f0484f0cb69f8f3c4826ce2689"
+			}
+		},
+		{
+			"name": "ssp-hard-02037",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "반딧별 (Shooting Star)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\t반딧별 (Shooting Star)\nDuration:\t1:40.62\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t614\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "3357c28513ff80d49d5b9cd0779d112f4e45c534",
+				"url": "/sonolus/repository/LevelBgm/3357c28513ff80d49d5b9cd0779d112f4e45c534"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b06fd08c7fb53990886d594a0c6baf090bf4bf9e",
+				"url": "/sonolus/repository/LevelPreview/b06fd08c7fb53990886d594a0c6baf090bf4bf9e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "005fa11cae4bb5e89a3f5f3c5aeacd1f6a4c4f7d",
+				"url": "/sonolus/repository/LevelData/005fa11cae4bb5e89a3f5f3c5aeacd1f6a4c4f7d"
+			}
+		},
+		{
+			"name": "ssp-hard-02038",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Good Bye Bye"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tRe:Birth\nTitle:\t\t\tGood Bye Bye\nDuration:\t1:44.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t536\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "74b72f5e7d1a0039265a32a0a78d8baec7ee11ec",
+				"url": "/sonolus/repository/LevelCover/74b72f5e7d1a0039265a32a0a78d8baec7ee11ec"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a5f398089bd7e1a3df6765994d837e63ff63dcd0",
+				"url": "/sonolus/repository/LevelBgm/a5f398089bd7e1a3df6765994d837e63ff63dcd0"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2e601ec8c5803defcb323ca3ae4a440672de736b",
+				"url": "/sonolus/repository/LevelPreview/2e601ec8c5803defcb323ca3ae4a440672de736b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "328de33598814a2b3ede94fe913bf66198f8d22b",
+				"url": "/sonolus/repository/LevelData/328de33598814a2b3ede94fe913bf66198f8d22b"
+			}
+		},
+		{
+			"name": "ssp-hard-02039",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Action"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tAction\nTitle:\t\t\tAction\nDuration:\t1:25.05\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t502\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "eeb048527df717e627e8053a8ab8ed4ac87cc93b",
+				"url": "/sonolus/repository/LevelCover/eeb048527df717e627e8053a8ab8ed4ac87cc93b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6953c0876f32fb8078a62d202e2fa778d8953aa6",
+				"url": "/sonolus/repository/LevelBgm/6953c0876f32fb8078a62d202e2fa778d8953aa6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "15b64a78c26cc736d641d677dbd08c904819b2d1",
+				"url": "/sonolus/repository/LevelPreview/15b64a78c26cc736d641d677dbd08c904819b2d1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ca156f31a9b17aff6500530ae8684a4aa72df790",
+				"url": "/sonolus/repository/LevelData/ca156f31a9b17aff6500530ae8684a4aa72df790"
+			}
+		},
+		{
+			"name": "ssp-hard-02040",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "I'm in Trouble [Verse 2]"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Nocturne\nTitle:\t\t\tI'm in Trouble [Verse 2]\nDuration:\t1:45.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t580\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02029"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0b9dae7aaa3b4aee525dc717f142222ae669c9c5",
+				"url": "/sonolus/repository/LevelCover/0b9dae7aaa3b4aee525dc717f142222ae669c9c5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b17044c5d38696ba38d20d0c30dc51ed6f050242",
+				"url": "/sonolus/repository/LevelBgm/b17044c5d38696ba38d20d0c30dc51ed6f050242"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4918b4c7750977596d0a62cc5d6bc67f9496fa91",
+				"url": "/sonolus/repository/LevelPreview/4918b4c7750977596d0a62cc5d6bc67f9496fa91"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8efd813293f40be1dc414d3f2e2c1fe2071878a9",
+				"url": "/sonolus/repository/LevelData/8efd813293f40be1dc414d3f2e2c1fe2071878a9"
+			}
+		},
+		{
+			"name": "ssp-hard-02041",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Trust Me"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tThe Table\nTitle:\t\t\tTrust Me\nDuration:\t1:37.83\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t541\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02018"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955",
+				"url": "/sonolus/repository/LevelCover/a7336f6a4d15f290562ad2a2c7b0eb41eb6c9955"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6053270ca871d3e409d968203a2b3f3d9ea563ef",
+				"url": "/sonolus/repository/LevelBgm/6053270ca871d3e409d968203a2b3f3d9ea563ef"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "60ff43c8fa2df46b7223197ee992657244c598b7",
+				"url": "/sonolus/repository/LevelPreview/60ff43c8fa2df46b7223197ee992657244c598b7"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a00e295f89b304e3a18b53e5a7cdd3e5abee7542",
+				"url": "/sonolus/repository/LevelData/a00e295f89b304e3a18b53e5a7cdd3e5abee7542"
+			}
+		},
+		{
+			"name": "ssp-hard-02042",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "사실 말야 (VVITH)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tQ Is\nTitle:\t\t\t사실 말야 (VVITH)\nDuration:\t1:25.53\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t438\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "29d8b620b8c6c9af841e7d1233c17c91f0b52b05",
+				"url": "/sonolus/repository/LevelCover/29d8b620b8c6c9af841e7d1233c17c91f0b52b05"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2782b82dc50aaa1b326ad6763941df7254028403",
+				"url": "/sonolus/repository/LevelBgm/2782b82dc50aaa1b326ad6763941df7254028403"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0cd2aed0c7c83e79127dbcfe312def8f1ad6f4b9",
+				"url": "/sonolus/repository/LevelPreview/0cd2aed0c7c83e79127dbcfe312def8f1ad6f4b9"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ee2b8eb131248a29cb375a03d27236ad02cce4da",
+				"url": "/sonolus/repository/LevelData/ee2b8eb131248a29cb375a03d27236ad02cce4da"
+			}
+		},
+		{
+			"name": "ssp-hard-02043",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Thank You (evening by evening)"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tCanvas\nTitle:\t\t\tThank You (evening by evening)\nDuration:\t1:45.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t557\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "dd60181f69b7ed959da9b30083279a41bf09a391",
+				"url": "/sonolus/repository/LevelCover/dd60181f69b7ed959da9b30083279a41bf09a391"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "840a0b3552e455335fa7ff7aaea4e596bcdcd033",
+				"url": "/sonolus/repository/LevelBgm/840a0b3552e455335fa7ff7aaea4e596bcdcd033"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6e7bf9331e287735a95a1b88fb5c7d1e435786d4",
+				"url": "/sonolus/repository/LevelPreview/6e7bf9331e287735a95a1b88fb5c7d1e435786d4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2b11439ae04914840d896a22b32961cb1761854d",
+				"url": "/sonolus/repository/LevelData/2b11439ae04914840d896a22b32961cb1761854d"
+			}
+		},
+		{
+			"name": "ssp-hard-02101",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "하루만 (My Beautiful)"
+			},
+			"artists": {
+				"en": "NU'EST W"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST W\nAlbum:\t\tW, Here\nTitle:\t\t\t하루만 (My Beautiful)\nDuration:\t1:37.32\nBPM:\t\t82\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t446\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02101"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "beb57b2a9ed2ad495e80cd1a0528e78000ee3b04",
+				"url": "/sonolus/repository/LevelCover/beb57b2a9ed2ad495e80cd1a0528e78000ee3b04"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a9b621326e5fae271ac071ce87b6ea759bb63d83",
+				"url": "/sonolus/repository/LevelBgm/a9b621326e5fae271ac071ce87b6ea759bb63d83"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bcb43aa284f966615f4f288630f945e122e2daeb",
+				"url": "/sonolus/repository/LevelPreview/bcb43aa284f966615f4f288630f945e122e2daeb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4c79adcbe53d7a27d850611a1aaf0bd360be2684",
+				"url": "/sonolus/repository/LevelData/4c79adcbe53d7a27d850611a1aaf0bd360be2684"
+			}
+		},
+		{
+			"name": "ssp-hard-02102",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "중력달 (Gravity&Moon)"
+			},
+			"artists": {
+				"en": "NU'EST W"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST W\nAlbum:\t\tWho, You\nTitle:\t\t\t중력달 (Gravity&Moon)\nDuration:\t1:28.08\nBPM:\t\t101.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t496\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02102"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6",
+				"url": "/sonolus/repository/LevelCover/12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c246bd1b2d88fd5e43091d4f3341284c5780c09f",
+				"url": "/sonolus/repository/LevelBgm/c246bd1b2d88fd5e43091d4f3341284c5780c09f"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e84fc952f27748757b68b25c181b30230c013196",
+				"url": "/sonolus/repository/LevelPreview/e84fc952f27748757b68b25c181b30230c013196"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "41ca94f97bca7889f15de396dcfac0b75800f82a",
+				"url": "/sonolus/repository/LevelData/41ca94f97bca7889f15de396dcfac0b75800f82a"
+			}
+		},
+		{
+			"name": "ssp-hard-02103",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Dejavu"
+			},
+			"artists": {
+				"en": "NU'EST W"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST W\nAlbum:\t\tWho, You\nTitle:\t\t\tDejavu\nDuration:\t1:42.78\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t626\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02102"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6",
+				"url": "/sonolus/repository/LevelCover/12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d2ee894d900188507084ab15425395d2922d4724",
+				"url": "/sonolus/repository/LevelBgm/d2ee894d900188507084ab15425395d2922d4724"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7e599baca58b8f1ba0460b9ea4440db5dbd80b40",
+				"url": "/sonolus/repository/LevelPreview/7e599baca58b8f1ba0460b9ea4440db5dbd80b40"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b295eb4c085d4e9be1b9d3a7475aa67140db28af",
+				"url": "/sonolus/repository/LevelData/b295eb4c085d4e9be1b9d3a7475aa67140db28af"
+			}
+		},
+		{
+			"name": "ssp-hard-02104",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "HELP ME"
+			},
+			"artists": {
+				"en": "NU'EST W"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST W\nAlbum:\t\tWake, N\nTitle:\t\t\tHELP ME\nDuration:\t1:36.71\nBPM:\t\t152\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t611\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02104"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "87a1b1ade50c02b3f256140ef8e6426f37e75eed",
+				"url": "/sonolus/repository/LevelCover/87a1b1ade50c02b3f256140ef8e6426f37e75eed"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "34d45ef516fe7a3d41500fd1737253a9de25427e",
+				"url": "/sonolus/repository/LevelBgm/34d45ef516fe7a3d41500fd1737253a9de25427e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e549f2887f4a5f52c61d0fd760271e199bf43a8b",
+				"url": "/sonolus/repository/LevelPreview/e549f2887f4a5f52c61d0fd760271e199bf43a8b"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ac0749030f6561c94bf48208da95ae7f673f7d93",
+				"url": "/sonolus/repository/LevelData/ac0749030f6561c94bf48208da95ae7f673f7d93"
+			}
+		},
+		{
+			"name": "ssp-hard-02105",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "북극성 (Polaris)"
+			},
+			"artists": {
+				"en": "NU'EST W"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST W\nAlbum:\t\tWho, You\nTitle:\t\t\t북극성 (Polaris)\nDuration:\t2:19.06\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t694\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02102"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6",
+				"url": "/sonolus/repository/LevelCover/12a609ce1d7f7e7e1ac2c51463a97be7ebd21fc6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e10dc53ad5b9db2c0380e345d97ccbf87e3b1e46",
+				"url": "/sonolus/repository/LevelBgm/e10dc53ad5b9db2c0380e345d97ccbf87e3b1e46"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "810d902478992e57b5c9c5a49b6ad0a0d160cbca",
+				"url": "/sonolus/repository/LevelPreview/810d902478992e57b5c9c5a49b6ad0a0d160cbca"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "825760590b7fe085c5570d0bab678e84971c440a",
+				"url": "/sonolus/repository/LevelData/825760590b7fe085c5570d0bab678e84971c440a"
+			}
+		},
+		{
+			"name": "ssp-hard-10002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "FACE [April Fool's]"
+			},
+			"artists": {
+				"en": "NU'EST"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tNU'EST\nAlbum:\t\tFace\nTitle:\t\t\tFACE [April Fool's]\nDuration:\t1:06.29\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t309\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-02001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ff25e162c1a5e69553b78218354db588f9c8cfad",
+				"url": "/sonolus/repository/LevelCover/ff25e162c1a5e69553b78218354db588f9c8cfad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d97eb59022c346e06292ea4a6e518e87a9b8c836",
+				"url": "/sonolus/repository/LevelBgm/d97eb59022c346e06292ea4a6e518e87a9b8c836"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "932be2940dbcaa4c81ec54480582c033b80ca458",
+				"url": "/sonolus/repository/LevelPreview/932be2940dbcaa4c81ec54480582c033b80ca458"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "cc27436c0697d212e89ada986da3c1964ace3d34",
+				"url": "/sonolus/repository/LevelData/cc27436c0697d212e89ada986da3c1964ace3d34"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-02001",
+			"version": 2,
+			"title": {
+				"en": "Face default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tFace\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "130fd0bf5e4c97ecc6ba7d3784adc4ae6472db47",
+				"url": "/sonolus/repository/BackgroundThumbnail/130fd0bf5e4c97ecc6ba7d3784adc4ae6472db47"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "81480abc7aaeadddfa18eb9341fce04a9a331a8c",
+				"url": "/sonolus/repository/BackgroundImage/81480abc7aaeadddfa18eb9341fce04a9a331a8c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02002",
+			"version": 2,
+			"title": {
+				"en": "Action default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tAction\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "1431ce078eb445a8420de832466b288d864de72d",
+				"url": "/sonolus/repository/BackgroundThumbnail/1431ce078eb445a8420de832466b288d864de72d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "5e0d03e7437968d4dedaedaddf6fc8961c87bb11",
+				"url": "/sonolus/repository/BackgroundImage/5e0d03e7437968d4dedaedaddf6fc8961c87bb11"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02003",
+			"version": 2,
+			"title": {
+				"en": "Hello default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tHello\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "940a7013ab799770bcb67e938bf81a2cc06c2c38",
+				"url": "/sonolus/repository/BackgroundThumbnail/940a7013ab799770bcb67e938bf81a2cc06c2c38"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "bf45224f0bf58d924f915b0b4768ba7ef0253ce1",
+				"url": "/sonolus/repository/BackgroundImage/bf45224f0bf58d924f915b0b4768ba7ef0253ce1"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02005",
+			"version": 2,
+			"title": {
+				"en": "Sleep Talking default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tSleep Talking\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "0823a7251f404e19ef92e717079fdb28c7f48ae5",
+				"url": "/sonolus/repository/BackgroundThumbnail/0823a7251f404e19ef92e717079fdb28c7f48ae5"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "948a62009e2405037be5c7071b03d6f464d6444a",
+				"url": "/sonolus/repository/BackgroundImage/948a62009e2405037be5c7071b03d6f464d6444a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02006",
+			"version": 2,
+			"title": {
+				"en": "Re:Birth default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tRe:Birth\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "894c07f2e7b49154edd7af60c3f396d6089e2e78",
+				"url": "/sonolus/repository/BackgroundThumbnail/894c07f2e7b49154edd7af60c3f396d6089e2e78"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a6fdc3a5df73a9cfbcfcf7ffe1297abcfec0739b",
+				"url": "/sonolus/repository/BackgroundImage/a6fdc3a5df73a9cfbcfcf7ffe1297abcfec0739b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02007",
+			"version": 2,
+			"title": {
+				"en": "Q Is default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tQ Is\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8df6fe4cbddb7331a40874fdadad5e8ff3a67575",
+				"url": "/sonolus/repository/BackgroundThumbnail/8df6fe4cbddb7331a40874fdadad5e8ff3a67575"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "1a97319618aa019df9cde22e06dfd5da62b5c7dd",
+				"url": "/sonolus/repository/BackgroundImage/1a97319618aa019df9cde22e06dfd5da62b5c7dd"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02008",
+			"version": 2,
+			"title": {
+				"en": "Canvas default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tCanvas\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "f1088fc9b67046b2980f87d87034deaff180a675",
+				"url": "/sonolus/repository/BackgroundThumbnail/f1088fc9b67046b2980f87d87034deaff180a675"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "492778e0847e5715fdd97cc829c94c8dd989f727",
+				"url": "/sonolus/repository/BackgroundImage/492778e0847e5715fdd97cc829c94c8dd989f727"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02009",
+			"version": 2,
+			"title": {
+				"en": "노래 제목 (A Song For You) default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\t노래 제목 (A Song For You)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "41feaf48965922fab1ab63f1c218a0ceed66699f",
+				"url": "/sonolus/repository/BackgroundThumbnail/41feaf48965922fab1ab63f1c218a0ceed66699f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "43a9a6cd624cbd4cc20c5c2609dea21a0b260456",
+				"url": "/sonolus/repository/BackgroundImage/43a9a6cd624cbd4cc20c5c2609dea21a0b260456"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02011",
+			"version": 2,
+			"title": {
+				"en": "Happily Ever After default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tHappily Ever After\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "2e013b3f8cbf0d9c2ac8747b241c13650bb0afdc",
+				"url": "/sonolus/repository/BackgroundThumbnail/2e013b3f8cbf0d9c2ac8747b241c13650bb0afdc"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3e2d1858a7f34f2b0a9f7c9d63cb62d1e4a2ecf1",
+				"url": "/sonolus/repository/BackgroundImage/3e2d1858a7f34f2b0a9f7c9d63cb62d1e4a2ecf1"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02018",
+			"version": 2,
+			"title": {
+				"en": "The Table default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tThe Table\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "1b63cda2860b80788fd003a8cdcb79a3a2958fb1",
+				"url": "/sonolus/repository/BackgroundThumbnail/1b63cda2860b80788fd003a8cdcb79a3a2958fb1"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "5f23e9a1099ef76bf053439910ffdaf56cc5f29a",
+				"url": "/sonolus/repository/BackgroundImage/5f23e9a1099ef76bf053439910ffdaf56cc5f29a"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02029",
+			"version": 2,
+			"title": {
+				"en": "The Nocturne default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tThe Nocturne\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "11404fa9bb0335c9fcd059f265c1eb6490c98c98",
+				"url": "/sonolus/repository/BackgroundThumbnail/11404fa9bb0335c9fcd059f265c1eb6490c98c98"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "4caa624c0b00d4bbf0012add650c4c4aa8549dec",
+				"url": "/sonolus/repository/BackgroundImage/4caa624c0b00d4bbf0012add650c4c4aa8549dec"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02036",
+			"version": 2,
+			"title": {
+				"en": "I'm Bad default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tI'm Bad\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6e79b57addfc7044b004d0eed586f9f384e5cb16",
+				"url": "/sonolus/repository/BackgroundThumbnail/6e79b57addfc7044b004d0eed586f9f384e5cb16"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3e1ece3b74144a7b61f650ca235e1b5fa5d51ec2",
+				"url": "/sonolus/repository/BackgroundImage/3e1ece3b74144a7b61f650ca235e1b5fa5d51ec2"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02101",
+			"version": 2,
+			"title": {
+				"en": "W, Here default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tW, Here\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "c932f22a59a982412e89fadf1a1ae1ff1f684bd4",
+				"url": "/sonolus/repository/BackgroundThumbnail/c932f22a59a982412e89fadf1a1ae1ff1f684bd4"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e740e8696236d26b660e55c42b4100c2add3e90c",
+				"url": "/sonolus/repository/BackgroundImage/e740e8696236d26b660e55c42b4100c2add3e90c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02102",
+			"version": 2,
+			"title": {
+				"en": "Who, You default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tWho, You\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "cf10def8e2d291c83b44041c4f14d0ede98bad15",
+				"url": "/sonolus/repository/BackgroundThumbnail/cf10def8e2d291c83b44041c4f14d0ede98bad15"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "25764b2a3a323130a37e7bc6e2646f5038450ebb",
+				"url": "/sonolus/repository/BackgroundImage/25764b2a3a323130a37e7bc6e2646f5038450ebb"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-02104",
+			"version": 2,
+			"title": {
+				"en": "Wake, N default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nArtist:\t\nAlbum:\tWake, N\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "99a86df7ff9a3166189ee65f99b7586ca149dcb2",
+				"url": "/sonolus/repository/BackgroundThumbnail/99a86df7ff9a3166189ee65f99b7586ca149dcb2"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "39212057c6f533521e9acbc7be758004d98e071e",
+				"url": "/sonolus/repository/BackgroundImage/39212057c6f533521e9acbc7be758004d98e071e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

@@ -1,0 +1,2198 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (After School)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-04001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "너 때문에 (Because of You)"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tBecause of You\nTitle:\t\t\t너 때문에 (Because of You)\nDuration:\t1:46.56\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t603\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ace9620e200fdfa0dcf5663f355a06a7d2b4b0dc",
+				"url": "/sonolus/repository/LevelCover/ace9620e200fdfa0dcf5663f355a06a7d2b4b0dc"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "80a081784ad7249acae4c3e30f89a665f4e4cf14",
+				"url": "/sonolus/repository/LevelBgm/80a081784ad7249acae4c3e30f89a665f4e4cf14"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "5902b59905b26554f6a673fedc92b2a72e15dfc8",
+				"url": "/sonolus/repository/LevelPreview/5902b59905b26554f6a673fedc92b2a72e15dfc8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a76e6c6664954f000f45dfa6a846c3521538291f",
+				"url": "/sonolus/repository/LevelData/a76e6c6664954f000f45dfa6a846c3521538291f"
+			}
+		},
+		{
+			"name": "ssp-hard-04002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "When I Fall"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tBecause of You\nTitle:\t\t\tWhen I Fall\nDuration:\t1:17.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t365\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ace9620e200fdfa0dcf5663f355a06a7d2b4b0dc",
+				"url": "/sonolus/repository/LevelCover/ace9620e200fdfa0dcf5663f355a06a7d2b4b0dc"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e60277c573b4f1ea7b4a4eda3da6828a6c4b3ed2",
+				"url": "/sonolus/repository/LevelBgm/e60277c573b4f1ea7b4a4eda3da6828a6c4b3ed2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "75c3056519b6cc7cb2f4b5e2d6aa71bfab298615",
+				"url": "/sonolus/repository/LevelPreview/75c3056519b6cc7cb2f4b5e2d6aa71bfab298615"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9240dbde50df3fd0ba2ff6bdffc6cf6416618d91",
+				"url": "/sonolus/repository/LevelData/9240dbde50df3fd0ba2ff6bdffc6cf6416618d91"
+			}
+		},
+		{
+			"name": "ssp-hard-04003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love Love Love"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tHazel Eyes\nTitle:\t\t\tLove Love Love\nDuration:\t1:30.00\nBPM:\t\t148\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t465\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0bbfc5a95a3cb47163e100ebb5f720075983764e",
+				"url": "/sonolus/repository/LevelCover/0bbfc5a95a3cb47163e100ebb5f720075983764e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c4c287efd4e16e1123e580a5170e8d5ba6abe4a5",
+				"url": "/sonolus/repository/LevelBgm/c4c287efd4e16e1123e580a5170e8d5ba6abe4a5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "788bd6e8fc2846dffac573063424e218664a58ef",
+				"url": "/sonolus/repository/LevelPreview/788bd6e8fc2846dffac573063424e218664a58ef"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1602e0e781246fa1834447cd4468275bc42f2d67",
+				"url": "/sonolus/repository/LevelData/1602e0e781246fa1834447cd4468275bc42f2d67"
+			}
+		},
+		{
+			"name": "ssp-hard-04004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love Letter (Feat. 아라, 혜림, 정현, 민현, 동호)"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tHappy Pledis 2nd Album\nTitle:\t\t\tLove Letter (Feat. 아라, 혜림, 정현, 민현, 동호)\nDuration:\t1:52.63\nBPM:\t\t114\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t652\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "8e690d8e8904a85972a9a56bc2a31dcfb20896e9",
+				"url": "/sonolus/repository/LevelCover/8e690d8e8904a85972a9a56bc2a31dcfb20896e9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e232137618ec8eb4d4b56cd6ae0caf647fdb90c4",
+				"url": "/sonolus/repository/LevelBgm/e232137618ec8eb4d4b56cd6ae0caf647fdb90c4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7299eafd71d4b39d6df847d64365d40b78a72c4f",
+				"url": "/sonolus/repository/LevelPreview/7299eafd71d4b39d6df847d64365d40b78a72c4f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0abb05527ed4019b7ff7f1d136b0643c3360b240",
+				"url": "/sonolus/repository/LevelData/0abb05527ed4019b7ff7f1d136b0643c3360b240"
+			}
+		},
+		{
+			"name": "ssp-hard-04005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Rip Off"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tFlashback\nTitle:\t\t\tRip Off\nDuration:\t1:08.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t437\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "33b90394d1151c1ee146939b8634b90f44036998",
+				"url": "/sonolus/repository/LevelCover/33b90394d1151c1ee146939b8634b90f44036998"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5236876f7a22cd5893ea2b58f8555b567e6a31ae",
+				"url": "/sonolus/repository/LevelBgm/5236876f7a22cd5893ea2b58f8555b567e6a31ae"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "20cd8d9b44cd3738f2d4992afc5363e004a63339",
+				"url": "/sonolus/repository/LevelPreview/20cd8d9b44cd3738f2d4992afc5363e004a63339"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "02786ab4e46466981528d2720176109c2c42bfc9",
+				"url": "/sonolus/repository/LevelData/02786ab4e46466981528d2720176109c2c42bfc9"
+			}
+		},
+		{
+			"name": "ssp-hard-04006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Flashback"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tFlashback\nTitle:\t\t\tFlashback\nDuration:\t1:27.23\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t520\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "33b90394d1151c1ee146939b8634b90f44036998",
+				"url": "/sonolus/repository/LevelCover/33b90394d1151c1ee146939b8634b90f44036998"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4c6cf988dc0a3698995b3412b8d1feb4c2aaa350",
+				"url": "/sonolus/repository/LevelBgm/4c6cf988dc0a3698995b3412b8d1feb4c2aaa350"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e8443b47f51482606f2fa8d02428073594576e13",
+				"url": "/sonolus/repository/LevelPreview/e8443b47f51482606f2fa8d02428073594576e13"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4caf44984564300141b9630bf4ba5e42c610bbc2",
+				"url": "/sonolus/repository/LevelData/4caf44984564300141b9630bf4ba5e42c610bbc2"
+			}
+		},
+		{
+			"name": "ssp-hard-04007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "뱅(Bang) !"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tBang!\nTitle:\t\t\t뱅(Bang) !\nDuration:\t1:16.50\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t568\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "714bbbc705b0191848711ac8c2d73ba6d4348e7e",
+				"url": "/sonolus/repository/LevelCover/714bbbc705b0191848711ac8c2d73ba6d4348e7e"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "62e63a2ef4054e880234b1ae0aa9c146e8349856",
+				"url": "/sonolus/repository/LevelBgm/62e63a2ef4054e880234b1ae0aa9c146e8349856"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f6236fec15ae1f03591c2479079f4602ba1a2cc1",
+				"url": "/sonolus/repository/LevelPreview/f6236fec15ae1f03591c2479079f4602ba1a2cc1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1e5491f9c4b76c6e4890fc09fb539b6db6e5afef",
+				"url": "/sonolus/repository/LevelData/1e5491f9c4b76c6e4890fc09fb539b6db6e5afef"
+			}
+		},
+		{
+			"name": "ssp-hard-04008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Shampoo"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tVirgin\nTitle:\t\t\tShampoo\nDuration:\t1:56.22\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t778\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a5346576b8e956503b76fbe3afb0fbaddf9737c8",
+				"url": "/sonolus/repository/LevelCover/a5346576b8e956503b76fbe3afb0fbaddf9737c8"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cf0e5eeb37d1199f6999184131e6937006d959f9",
+				"url": "/sonolus/repository/LevelBgm/cf0e5eeb37d1199f6999184131e6937006d959f9"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7f334147fe1fe5512cf6878657ae6ce582a2fe31",
+				"url": "/sonolus/repository/LevelPreview/7f334147fe1fe5512cf6878657ae6ce582a2fe31"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bde6e649c7070c328faa1f21d870030d0ed3fbb5",
+				"url": "/sonolus/repository/LevelData/bde6e649c7070c328faa1f21d870030d0ed3fbb5"
+			}
+		},
+		{
+			"name": "ssp-hard-04009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "첫사랑 (First Love)"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tFirst Love\nTitle:\t\t\t첫사랑 (First Love)\nDuration:\t2:09.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t681\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "398155f0e47ca807022b99cb03d62dd7cd1aaa80",
+				"url": "/sonolus/repository/LevelCover/398155f0e47ca807022b99cb03d62dd7cd1aaa80"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "ad16feeb6efc1a19b7749417c78eb022f2bc26c8",
+				"url": "/sonolus/repository/LevelBgm/ad16feeb6efc1a19b7749417c78eb022f2bc26c8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "762eb2cd1da5b73d6c00f5868907ee217013d5f3",
+				"url": "/sonolus/repository/LevelPreview/762eb2cd1da5b73d6c00f5868907ee217013d5f3"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "90587949d92b1ade21cda4385ed973f0f647df70",
+				"url": "/sonolus/repository/LevelData/90587949d92b1ade21cda4385ed973f0f647df70"
+			}
+		},
+		{
+			"name": "ssp-hard-04010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "화장을 하다 울었어 (Make Up & Tears)"
+			},
+			"artists": {
+				"en": "AFTER SCHOOL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAFTER SCHOOL\nAlbum:\t\tFirst Love\nTitle:\t\t\t화장을 하다 울었어 (Make Up & Tears)\nDuration:\t1:46.57\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t474\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "398155f0e47ca807022b99cb03d62dd7cd1aaa80",
+				"url": "/sonolus/repository/LevelCover/398155f0e47ca807022b99cb03d62dd7cd1aaa80"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e53226a46c9325db08357cf68d0a825bcf3c3b7b",
+				"url": "/sonolus/repository/LevelBgm/e53226a46c9325db08357cf68d0a825bcf3c3b7b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6242158b6a249d2c122982c662f031fbdea41487",
+				"url": "/sonolus/repository/LevelPreview/6242158b6a249d2c122982c662f031fbdea41487"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c4e37185541faa730eb289016ac2d2a6f9fdcd5b",
+				"url": "/sonolus/repository/LevelData/c4e37185541faa730eb289016ac2d2a6f9fdcd5b"
+			}
+		},
+		{
+			"name": "ssp-hard-04101",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "샹하이 로맨스 (上海之戀) (Shanghai Romance)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tShanghai Romance\nTitle:\t\t\t샹하이 로맨스 (上海之戀) (Shanghai Romance)\nDuration:\t1:40.67\nBPM:\t\t149\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t554\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04101"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "73bf1b370b7d02b65d1f1383d83650d225f252be",
+				"url": "/sonolus/repository/LevelCover/73bf1b370b7d02b65d1f1383d83650d225f252be"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aa22eefad11912bd0de28232547b6546902d6aff",
+				"url": "/sonolus/repository/LevelBgm/aa22eefad11912bd0de28232547b6546902d6aff"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b773041703143e710f378d0e3c7f6a47dc56bdb6",
+				"url": "/sonolus/repository/LevelPreview/b773041703143e710f378d0e3c7f6a47dc56bdb6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6e083f77fb5ff077f215686210999bdfb5d78459",
+				"url": "/sonolus/repository/LevelData/6e083f77fb5ff077f215686210999bdfb5d78459"
+			}
+		},
+		{
+			"name": "ssp-hard-04102",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Superwoman"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tLipstick\nTitle:\t\t\tSuperwoman\nDuration:\t1:33.87\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t563\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04102"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b3ac2f2dce214f645ea4e71916b594c8348585c8",
+				"url": "/sonolus/repository/LevelCover/b3ac2f2dce214f645ea4e71916b594c8348585c8"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "98d938212e57863da0cbc26bb61ae7238abb4cb0",
+				"url": "/sonolus/repository/LevelBgm/98d938212e57863da0cbc26bb61ae7238abb4cb0"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d6e45daeb09989127f9b7eded48772c4b3eb0ca7",
+				"url": "/sonolus/repository/LevelPreview/d6e45daeb09989127f9b7eded48772c4b3eb0ca7"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2fc37f562e4dd086619d40e87cd103f2117d0c1d",
+				"url": "/sonolus/repository/LevelData/2fc37f562e4dd086619d40e87cd103f2117d0c1d"
+			}
+		},
+		{
+			"name": "ssp-hard-04103",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "까탈레나(Catallena)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tCatallena\nTitle:\t\t\t까탈레나(Catallena)\nDuration:\t1:42.99\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t668\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04103"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b3b75614862560a71937bd752c632c236caaed53",
+				"url": "/sonolus/repository/LevelCover/b3b75614862560a71937bd752c632c236caaed53"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "62fe47545905858414a6b9962f8de4472d301179",
+				"url": "/sonolus/repository/LevelBgm/62fe47545905858414a6b9962f8de4472d301179"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7dd2eb88410cbcf225253f9c2f5dcd5cc265f5d2",
+				"url": "/sonolus/repository/LevelPreview/7dd2eb88410cbcf225253f9c2f5dcd5cc265f5d2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "43c86933cdbdb57a43f7704584526254a667e7b7",
+				"url": "/sonolus/repository/LevelData/43c86933cdbdb57a43f7704584526254a667e7b7"
+			}
+		},
+		{
+			"name": "ssp-hard-04104",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "나처럼 해봐요 (My Copycat)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tMy Copycat\nTitle:\t\t\t나처럼 해봐요 (My Copycat)\nDuration:\t1:26.51\nBPM:\t\t129\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t609\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04104"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5ff38660584c540b51f8f1e4394f22e9435ced44",
+				"url": "/sonolus/repository/LevelCover/5ff38660584c540b51f8f1e4394f22e9435ced44"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "874e9b020494da9c0b349fd25f511e830077fc3a",
+				"url": "/sonolus/repository/LevelBgm/874e9b020494da9c0b349fd25f511e830077fc3a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "fc2e49436d2accd66465c7aeb2e341695a37a53e",
+				"url": "/sonolus/repository/LevelPreview/fc2e49436d2accd66465c7aeb2e341695a37a53e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "b46bdf63c0d4aaa171cc5dd806f71dde65b10d5b",
+				"url": "/sonolus/repository/LevelData/b46bdf63c0d4aaa171cc5dd806f71dde65b10d5b"
+			}
+		},
+		{
+			"name": "ssp-hard-04105",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "아잉♡ (A-ing)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tThe Second Mini Album\nTitle:\t\t\t아잉♡ (A-ing)\nDuration:\t1:47.84\nBPM:\t\t148\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t830\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04105"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "4f75f96e59f59109658f089d5f4cd77acff7b72f",
+				"url": "/sonolus/repository/LevelCover/4f75f96e59f59109658f089d5f4cd77acff7b72f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "07d2c1af3c6076d5fbe7e42924fb5b0f435e9cf4",
+				"url": "/sonolus/repository/LevelBgm/07d2c1af3c6076d5fbe7e42924fb5b0f435e9cf4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9568d9fd068e78c2e833578461c97ea14c64e7c8",
+				"url": "/sonolus/repository/LevelPreview/9568d9fd068e78c2e833578461c97ea14c64e7c8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "58ea326146affb58e6b55ef2620956ce1553b4e3",
+				"url": "/sonolus/repository/LevelData/58ea326146affb58e6b55ef2620956ce1553b4e3"
+			}
+		},
+		{
+			"name": "ssp-hard-04106",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "마법소녀 (魔法少女) (Magic Girl)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tThe First Mini Album\nTitle:\t\t\t마법소녀 (魔法少女) (Magic Girl)\nDuration:\t1:36.18\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t778\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04106"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ba6da118f190423068f6ffe8e81a52ca13cbb0b7",
+				"url": "/sonolus/repository/LevelCover/ba6da118f190423068f6ffe8e81a52ca13cbb0b7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f7a337d918d9159cdc5574043817aa1f7f8b5f4a",
+				"url": "/sonolus/repository/LevelBgm/f7a337d918d9159cdc5574043817aa1f7f8b5f4a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e1918584a2f0e498f9d5f78f118a8392372fe4b0",
+				"url": "/sonolus/repository/LevelPreview/e1918584a2f0e498f9d5f78f118a8392372fe4b0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bd35b19671f2dc401de0f0ab1c111e02fede7ede",
+				"url": "/sonolus/repository/LevelData/bd35b19671f2dc401de0f0ab1c111e02fede7ede"
+			}
+		},
+		{
+			"name": "ssp-hard-04107",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "립스틱 (LIPSTICK)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tLipstick\nTitle:\t\t\t립스틱 (LIPSTICK)\nDuration:\t1:28.57\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t703\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04107"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f4f54ccda3531dd0de65c723a27da0ed8ed3feeb",
+				"url": "/sonolus/repository/LevelCover/f4f54ccda3531dd0de65c723a27da0ed8ed3feeb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "acc463cd51cd3c8cc76fc73e1112a3ee3de20bf9",
+				"url": "/sonolus/repository/LevelBgm/acc463cd51cd3c8cc76fc73e1112a3ee3de20bf9"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "654c1e14beb49eee0a22a66129670d3fc5c6ce68",
+				"url": "/sonolus/repository/LevelPreview/654c1e14beb49eee0a22a66129670d3fc5c6ce68"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7a410c078ac112a76d643ee9eba2a98ae5b5fe43",
+				"url": "/sonolus/repository/LevelData/7a410c078ac112a76d643ee9eba2a98ae5b5fe43"
+			}
+		},
+		{
+			"name": "ssp-hard-04108",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "흰눈 사이로 하이힐 타고 (Dashing Through the Snow in High Heels)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\t흰눈 사이로 하이힐 타고 (Dashing Through the Snow in High Heels)\nTitle:\t\t\t흰눈 사이로 하이힐 타고 (Dashing Through the Snow in High Heels)\nDuration:\t2:17.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t762\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04108"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "53d0e2746063f241238e84276ace496f1c176a6f",
+				"url": "/sonolus/repository/LevelCover/53d0e2746063f241238e84276ace496f1c176a6f"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "051b6d017a12987eb629cce7ef303bb2ddbf1de7",
+				"url": "/sonolus/repository/LevelBgm/051b6d017a12987eb629cce7ef303bb2ddbf1de7"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "47dfc1cd00b37fed0a0c557035279268349d4135",
+				"url": "/sonolus/repository/LevelPreview/47dfc1cd00b37fed0a0c557035279268349d4135"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9172a3cc030cdd373cb8077fa2f2ed35a762471f",
+				"url": "/sonolus/repository/LevelData/9172a3cc030cdd373cb8077fa2f2ed35a762471f"
+			}
+		},
+		{
+			"name": "ssp-hard-04109",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "강남거리 (Gangnam Avenue)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tMy Copycat\nTitle:\t\t\t강남거리 (Gangnam Avenue)\nDuration:\t1:28.29\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t610\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04104"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5ff38660584c540b51f8f1e4394f22e9435ced44",
+				"url": "/sonolus/repository/LevelCover/5ff38660584c540b51f8f1e4394f22e9435ced44"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "7a787ff3c0662abd7bc0732eb7276e84267ae8f1",
+				"url": "/sonolus/repository/LevelBgm/7a787ff3c0662abd7bc0732eb7276e84267ae8f1"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d59e20e2cc22eb4f7bccf7a707781e569d75b0b1",
+				"url": "/sonolus/repository/LevelPreview/d59e20e2cc22eb4f7bccf7a707781e569d75b0b1"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "46021d8af5a4d69f264e71e07e61f993dc5e401e",
+				"url": "/sonolus/repository/LevelData/46021d8af5a4d69f264e71e07e61f993dc5e401e"
+			}
+		},
+		{
+			"name": "ssp-hard-04110",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "방콕시티 (Bangkok City)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tBangkok City\nTitle:\t\t\t방콕시티 (Bangkok City)\nDuration:\t1:38.96\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t537\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04110"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "f8a037278da23a186d418c0a3d43a0a2472c1967",
+				"url": "/sonolus/repository/LevelCover/f8a037278da23a186d418c0a3d43a0a2472c1967"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a5c1c78ffde7e4737d86a0e0c5deb2abf9e81eb5",
+				"url": "/sonolus/repository/LevelBgm/a5c1c78ffde7e4737d86a0e0c5deb2abf9e81eb5"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ce9f3c65db43e10bcf8aed7564c62a659cdd3df8",
+				"url": "/sonolus/repository/LevelPreview/ce9f3c65db43e10bcf8aed7564c62a659cdd3df8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "809136384f245c333f6043903a4af778730fc7a3",
+				"url": "/sonolus/repository/LevelData/809136384f245c333f6043903a4af778730fc7a3"
+			}
+		},
+		{
+			"name": "ssp-hard-04111",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "밀크쉐이크 (Milkshake)"
+			},
+			"artists": {
+				"en": "ORANGE CARAMEL"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tORANGE CARAMEL\nAlbum:\t\tLipstick\nTitle:\t\t\t밀크쉐이크 (Milkshake)\nDuration:\t1:35.11\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t519\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04102"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "b3ac2f2dce214f645ea4e71916b594c8348585c8",
+				"url": "/sonolus/repository/LevelCover/b3ac2f2dce214f645ea4e71916b594c8348585c8"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d8c870531f8ca2662ab6b4eaf1608705721399dc",
+				"url": "/sonolus/repository/LevelBgm/d8c870531f8ca2662ab6b4eaf1608705721399dc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "e1280bf6d66ba02b0bbdbf30caecf77679d030a7",
+				"url": "/sonolus/repository/LevelPreview/e1280bf6d66ba02b0bbdbf30caecf77679d030a7"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "175991a205e050dfa8501d9ef290c1e302323f90",
+				"url": "/sonolus/repository/LevelData/175991a205e050dfa8501d9ef290c1e302323f90"
+			}
+		},
+		{
+			"name": "ssp-hard-04201",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "같이 있고 싶어 (Treat You Better)"
+			},
+			"artists": {
+				"en": "Raina"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tRaina\nAlbum:\t\tLoop\nTitle:\t\t\t같이 있고 싶어 (Treat You Better)\nDuration:\t1:18.26\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t418\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04201"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0cabe0a8720492aba9d29826cb40fdde8f7fcef1",
+				"url": "/sonolus/repository/LevelCover/0cabe0a8720492aba9d29826cb40fdde8f7fcef1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4af97358671c91f54fe6615709e72b7c1b2eb636",
+				"url": "/sonolus/repository/LevelBgm/4af97358671c91f54fe6615709e72b7c1b2eb636"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "45ff3f21a8b66b628a6f893e700173d658e79d63",
+				"url": "/sonolus/repository/LevelPreview/45ff3f21a8b66b628a6f893e700173d658e79d63"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e053ee144b6fa8ead08b4e400477db499926fb84",
+				"url": "/sonolus/repository/LevelData/e053ee144b6fa8ead08b4e400477db499926fb84"
+			}
+		},
+		{
+			"name": "ssp-hard-04203",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "밥 영화 카페 (Loop) (Feat. Aron Of NU'EST)"
+			},
+			"artists": {
+				"en": "Raina"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tRaina\nAlbum:\t\tLoop\nTitle:\t\t\t밥 영화 카페 (Loop) (Feat. Aron Of NU'EST)\nDuration:\t1:51.82\nBPM:\t\t88\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t707\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04201"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0cabe0a8720492aba9d29826cb40fdde8f7fcef1",
+				"url": "/sonolus/repository/LevelCover/0cabe0a8720492aba9d29826cb40fdde8f7fcef1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c2c9433a56baff32df79daa899054aa9feec9b1d",
+				"url": "/sonolus/repository/LevelBgm/c2c9433a56baff32df79daa899054aa9feec9b1d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9b5a4d6bebdf6357d629ae1c0edd837392689d0e",
+				"url": "/sonolus/repository/LevelPreview/9b5a4d6bebdf6357d629ae1c0edd837392689d0e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "39876ddef01b8d209bb6248e2862fac0a15b6879",
+				"url": "/sonolus/repository/LevelData/39876ddef01b8d209bb6248e2862fac0a15b6879"
+			}
+		},
+		{
+			"name": "ssp-hard-04212",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "작아지는 중 (It's Okay)"
+			},
+			"artists": {
+				"en": "Raina"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tRaina\nAlbum:\t\tIt's Okay\nTitle:\t\t\t작아지는 중 (It's Okay)\nDuration:\t2:14.57\nBPM:\t\t70\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t449\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04212"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7c7e7c0de4d1173a771a0488b7a28826735ae720",
+				"url": "/sonolus/repository/LevelCover/7c7e7c0de4d1173a771a0488b7a28826735ae720"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1ca2b48614691319bc748db74ed786ba24b6ff60",
+				"url": "/sonolus/repository/LevelBgm/1ca2b48614691319bc748db74ed786ba24b6ff60"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ef57f49205c3fc7a77f809da8f993f36c845d02a",
+				"url": "/sonolus/repository/LevelPreview/ef57f49205c3fc7a77f809da8f993f36c845d02a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "dc00c19688d20a106b72fe1154f8e59d660f4392",
+				"url": "/sonolus/repository/LevelData/dc00c19688d20a106b72fe1154f8e59d660f4392"
+			}
+		},
+		{
+			"name": "ssp-hard-04213",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "맡겨줘 (Your Day)"
+			},
+			"artists": {
+				"en": "Raina"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tRaina\nAlbum:\t\tLoop\nTitle:\t\t\t맡겨줘 (Your Day)\nDuration:\t1:27.81\nBPM:\t\t82\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t440\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04201"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "0cabe0a8720492aba9d29826cb40fdde8f7fcef1",
+				"url": "/sonolus/repository/LevelCover/0cabe0a8720492aba9d29826cb40fdde8f7fcef1"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "139b5629db0f20e05f14a60bc51756b81f517e9a",
+				"url": "/sonolus/repository/LevelBgm/139b5629db0f20e05f14a60bc51756b81f517e9a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "d875bf13329f6fe8e2e77800b68968584b46b447",
+				"url": "/sonolus/repository/LevelPreview/d875bf13329f6fe8e2e77800b68968584b46b447"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "951896cf1ad57eab23b8b560e0a0f10feed2c048",
+				"url": "/sonolus/repository/LevelData/951896cf1ad57eab23b8b560e0a0f10feed2c048"
+			}
+		},
+		{
+			"name": "ssp-hard-04214",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "장난인거 알아 (You End, And Me) (Feat. 칸토 Of 트로이)"
+			},
+			"artists": {
+				"en": "Raina"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tRaina\nAlbum:\t\tReset\nTitle:\t\t\t장난인거 알아 (You End, And Me) (Feat. 칸토 Of 트로이)\nDuration:\t1:27.63\nBPM:\t\t152\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t455\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-04214"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "985f56acd8a37f19aab0ff2a2127541262579836",
+				"url": "/sonolus/repository/LevelCover/985f56acd8a37f19aab0ff2a2127541262579836"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f0d3ec3c8f139c5b34872c7c3e8e50b7d9ebb991",
+				"url": "/sonolus/repository/LevelBgm/f0d3ec3c8f139c5b34872c7c3e8e50b7d9ebb991"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8a67b13e5c80523a52ab50df29642bae3fa1d428",
+				"url": "/sonolus/repository/LevelPreview/8a67b13e5c80523a52ab50df29642bae3fa1d428"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "bd246e583221b2abca3955050cbcfa028e3c42f9",
+				"url": "/sonolus/repository/LevelData/bd246e583221b2abca3955050cbcfa028e3c42f9"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-04001",
+			"version": 2,
+			"title": {
+				"en": "Because of You default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tBecause of You\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "9ee40da233f3f07477af746cc952e84f812597c5",
+				"url": "/sonolus/repository/BackgroundThumbnail/9ee40da233f3f07477af746cc952e84f812597c5"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "a4496c8a9754a348769b6c55d2b03f7f3d2bc30d",
+				"url": "/sonolus/repository/BackgroundImage/a4496c8a9754a348769b6c55d2b03f7f3d2bc30d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04003",
+			"version": 2,
+			"title": {
+				"en": "Hazel Eyes default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tHazel Eyes\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "868e1d28375846343ca9a236c63bd8c30a189f46",
+				"url": "/sonolus/repository/BackgroundThumbnail/868e1d28375846343ca9a236c63bd8c30a189f46"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "291781c01319970376bbe105c388e0d9bf5d2475",
+				"url": "/sonolus/repository/BackgroundImage/291781c01319970376bbe105c388e0d9bf5d2475"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04004",
+			"version": 2,
+			"title": {
+				"en": "Happy Pledis 2nd Album default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tHappy Pledis 2nd Album\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "3805aa175d035f470c8f9059a35bb200b7e22fcd",
+				"url": "/sonolus/repository/BackgroundThumbnail/3805aa175d035f470c8f9059a35bb200b7e22fcd"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "00e0f6de87ab529078c00989524881505706531e",
+				"url": "/sonolus/repository/BackgroundImage/00e0f6de87ab529078c00989524881505706531e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04005",
+			"version": 2,
+			"title": {
+				"en": "Flashback default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tFlashback\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "ebb1a845a93555d874ce81f4514ea7dfef4aeae3",
+				"url": "/sonolus/repository/BackgroundThumbnail/ebb1a845a93555d874ce81f4514ea7dfef4aeae3"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "4557d11c273008b734c8df1dfb147ed35a528162",
+				"url": "/sonolus/repository/BackgroundImage/4557d11c273008b734c8df1dfb147ed35a528162"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04007",
+			"version": 2,
+			"title": {
+				"en": "Bang! default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tBang!\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "142405f9b9710db8f2b0957dcc594b9f3297459a",
+				"url": "/sonolus/repository/BackgroundThumbnail/142405f9b9710db8f2b0957dcc594b9f3297459a"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "412cf38c91f673ed9a0a4286a63064b2afaff263",
+				"url": "/sonolus/repository/BackgroundImage/412cf38c91f673ed9a0a4286a63064b2afaff263"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04008",
+			"version": 2,
+			"title": {
+				"en": "Virgin default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tVirgin\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "99dc29a4f73b6c4816def841b7be81237f0194f7",
+				"url": "/sonolus/repository/BackgroundThumbnail/99dc29a4f73b6c4816def841b7be81237f0194f7"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "90b865d877e37bc0c8ae3d0decf1e736adbe575d",
+				"url": "/sonolus/repository/BackgroundImage/90b865d877e37bc0c8ae3d0decf1e736adbe575d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04009",
+			"version": 2,
+			"title": {
+				"en": "First Love default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tFirst Love\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "01779f840571777871c9fed96dca94bb0b46a073",
+				"url": "/sonolus/repository/BackgroundThumbnail/01779f840571777871c9fed96dca94bb0b46a073"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "7daba91014de5397660c90c8dc9eb9800a51b644",
+				"url": "/sonolus/repository/BackgroundImage/7daba91014de5397660c90c8dc9eb9800a51b644"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04101",
+			"version": 2,
+			"title": {
+				"en": "Shanghai Romance default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tShanghai Romance\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "39de19a5da6afca600710ab2f522a0ec686e5521",
+				"url": "/sonolus/repository/BackgroundThumbnail/39de19a5da6afca600710ab2f522a0ec686e5521"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "d8a21a95c32ddfb0b29f6067ef863b87c2f21349",
+				"url": "/sonolus/repository/BackgroundImage/d8a21a95c32ddfb0b29f6067ef863b87c2f21349"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04102",
+			"version": 2,
+			"title": {
+				"en": "Lipstick default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLipstick\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "1780ccba01afcf26f7455219197103913af4f74d",
+				"url": "/sonolus/repository/BackgroundThumbnail/1780ccba01afcf26f7455219197103913af4f74d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "c94dc49351a69ca7163eee64d31ca7a6cfcc1b4c",
+				"url": "/sonolus/repository/BackgroundImage/c94dc49351a69ca7163eee64d31ca7a6cfcc1b4c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04103",
+			"version": 2,
+			"title": {
+				"en": "Catallena default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tCatallena\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a74d9069d727c98b7f3bb9019601fa8fa8abd73c",
+				"url": "/sonolus/repository/BackgroundThumbnail/a74d9069d727c98b7f3bb9019601fa8fa8abd73c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "da9039d97d11ce5da3d20ce04a88e6d4d33aaae4",
+				"url": "/sonolus/repository/BackgroundImage/da9039d97d11ce5da3d20ce04a88e6d4d33aaae4"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04104",
+			"version": 2,
+			"title": {
+				"en": "My Copycat default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tMy Copycat\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5a706c20418d961d29ef702a3d943362e31e48d7",
+				"url": "/sonolus/repository/BackgroundThumbnail/5a706c20418d961d29ef702a3d943362e31e48d7"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "91957e38cb88b56fd4c9a49d13bcef4096ab63bd",
+				"url": "/sonolus/repository/BackgroundImage/91957e38cb88b56fd4c9a49d13bcef4096ab63bd"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04105",
+			"version": 2,
+			"title": {
+				"en": "The Second Mini Album default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tThe Second Mini Album\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "82dceb0978fd7b401da3bf86485a28b293c1ebd1",
+				"url": "/sonolus/repository/BackgroundThumbnail/82dceb0978fd7b401da3bf86485a28b293c1ebd1"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "de16aaf78100a5c2fe363c3221edfa87050a5a0e",
+				"url": "/sonolus/repository/BackgroundImage/de16aaf78100a5c2fe363c3221edfa87050a5a0e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04106",
+			"version": 2,
+			"title": {
+				"en": "The First Mini Album default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tThe First Mini Album\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "cfb2e4954f8d159f213ff92cb83273457ee70055",
+				"url": "/sonolus/repository/BackgroundThumbnail/cfb2e4954f8d159f213ff92cb83273457ee70055"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e8fb9aef159556330ea3f38f5e7e0a18bd7b729e",
+				"url": "/sonolus/repository/BackgroundImage/e8fb9aef159556330ea3f38f5e7e0a18bd7b729e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04107",
+			"version": 2,
+			"title": {
+				"en": "Lipstick default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLipstick\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "60c2ef30da484cca99e5abb679f7f8e41a6384ee",
+				"url": "/sonolus/repository/BackgroundThumbnail/60c2ef30da484cca99e5abb679f7f8e41a6384ee"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "ac51256763cc0365111f6b39de06eb3748a522f5",
+				"url": "/sonolus/repository/BackgroundImage/ac51256763cc0365111f6b39de06eb3748a522f5"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04108",
+			"version": 2,
+			"title": {
+				"en": "흰눈 사이로 하이힐 타고 (Dashing Through the Snow in High Heels) default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\t흰눈 사이로 하이힐 타고 (Dashing Through the Snow in High Heels)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "66a8c290dda564aede70f58d77d09d7e06023e48",
+				"url": "/sonolus/repository/BackgroundThumbnail/66a8c290dda564aede70f58d77d09d7e06023e48"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "c81c5649eedc26ded5001df35a449fb4d49fed38",
+				"url": "/sonolus/repository/BackgroundImage/c81c5649eedc26ded5001df35a449fb4d49fed38"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04110",
+			"version": 2,
+			"title": {
+				"en": "Bangkok City default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tBangkok City\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "abcc885a3d602a7b0be79f83eeb1f9544462baf8",
+				"url": "/sonolus/repository/BackgroundThumbnail/abcc885a3d602a7b0be79f83eeb1f9544462baf8"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3a1b625284ab66e1b96558a8c0fac018dd889f8d",
+				"url": "/sonolus/repository/BackgroundImage/3a1b625284ab66e1b96558a8c0fac018dd889f8d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04201",
+			"version": 2,
+			"title": {
+				"en": "Loop default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLoop\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "bb4cf092354abdad7d83fd575dd09454cdd056c1",
+				"url": "/sonolus/repository/BackgroundThumbnail/bb4cf092354abdad7d83fd575dd09454cdd056c1"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6795317a4cd28e5aedf19df812738d687ef7c08e",
+				"url": "/sonolus/repository/BackgroundImage/6795317a4cd28e5aedf19df812738d687ef7c08e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04212",
+			"version": 2,
+			"title": {
+				"en": "It's Okay default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tIt's Okay\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "e9e5b651d93bf739ee9be9e37c13848e02502828",
+				"url": "/sonolus/repository/BackgroundThumbnail/e9e5b651d93bf739ee9be9e37c13848e02502828"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "aadeb839c7878d994be7b57e9c86bc19f533f8a6",
+				"url": "/sonolus/repository/BackgroundImage/aadeb839c7878d994be7b57e9c86bc19f533f8a6"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-04214",
+			"version": 2,
+			"title": {
+				"en": "Reset default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tReset\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5096918d3e964b07fef91fbbb6d6be20f0f25661",
+				"url": "/sonolus/repository/BackgroundThumbnail/5096918d3e964b07fef91fbbb6d6be20f0f25661"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "5c11943557dc177d0a758e2e9a85784395a0e4f5",
+				"url": "/sonolus/repository/BackgroundImage/5c11943557dc177d0a758e2e9a85784395a0e4f5"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}
